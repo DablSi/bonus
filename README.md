@@ -1,1 +1,1 @@
-Visualization of the key skills for a python developer for 
+Visualization of the key skills for a python developer. The data consists of job 1000 listings from hh.ru website from all over Russia. The fields extracted: key_skills, salary and address (for per city analysis).
