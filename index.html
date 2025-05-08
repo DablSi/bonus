@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Job Requirements Dashboard</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #f0f2f5;
+            --card-bg-color: #ffffff;
+            --text-color: #333a40;
+            --primary-color: #007bff;
+            --secondary-color: #6c757d;
+            --border-color: #dee2e6;
+            --shadow-color: rgba(0, 0, 0, 0.06);
+            --font-family: 'Inter', sans-serif;
+            --hover-highlight-color: #ffe082; /* Light yellow for hover */
+        }
+        /* (Keep existing body, header, .dashboard-grid, .chart-container, .full-width-chart, h2, .axis-label, .tick text, .tooltip, .loader-container, .loader, .error-message styles from previous version) */
+        body {
+            font-family: var(--font-family); margin: 0; padding: 25px; background-color: var(--bg-color);
+            color: var(--text-color); display: flex; flex-direction: column; align-items: center; min-height: 100vh;
+        }
+        header {
+            width: 100%; max-width: 1200px; text-align: center; margin-bottom: 40px;
+        }
+        header h1 { font-size: 2.8em; color: var(--primary-color); font-weight: 700; margin-bottom: 8px; }
+        header p { font-size: 1.15em; color: var(--secondary-color); font-weight: 300; }
+        .dashboard-grid {
+            display: grid; grid-template-columns: 1fr 1fr; gap: 30px;
+            width: 100%; max-width: 1200px; margin-bottom: 30px;
+        }
+        .full-width-chart { grid-column: 1 / -1; }
+        .chart-container {
+            background-color: var(--card-bg-color); border-radius: 10px; padding: 20px 25px 25px 25px;
+            box-shadow: 0 5px 15px var(--shadow-color); transition: transform 0.25s ease, box-shadow 0.25s ease;
+            display: flex; flex-direction: column;
+        }
+        .chart-container:hover { transform: translateY(-4px); box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08); }
+        .chart-container h2 {
+            font-size: 1.3em; text-align: left; color: var(--text-color); margin-top: 0;
+            margin-bottom: 20px; font-weight: 500; border-bottom: 1px solid var(--border-color); padding-bottom: 12px;
+        }
+        .chart-container svg { flex-grow: 1; min-height: 300px; overflow: visible; /* For bubble chart labels */ }
+        .bar { transition: fill 0.2s ease-in-out, opacity 0.2s ease-in-out; rx: 3px; ry: 3px; }
+        .axis-label { font-size: 0.9em; fill: var(--secondary-color); font-weight: 400; }
+        .tick text { font-size: 0.8em; fill: #555; }
+        .tooltip {
+            position: absolute; text-align: left; padding: 10px 12px; font-size: 12.5px;
+            background: rgba(30, 30, 30, 0.95); color: #fff; border: 0px; border-radius: 5px;
+            pointer-events: none; opacity: 0; z-index: 100; box-shadow: 0 3px 7px rgba(0,0,0,0.2);
+            transition: opacity 0.15s ease-in-out; line-height: 1.5;
+        }
+        .tooltip strong { font-weight: 700; color: #82c9ff; }
+        .tooltip .value { color: #ffdd57; }
+        .loader-container { display: flex; justify-content: center; align-items: center; min-height: 200px; }
+        .loader {
+            border: 4px solid #f3f3f3; border-radius: 50%; border-top: 4px solid var(--primary-color);
+            width: 30px; height: 30px; animation: spin 0.8s linear infinite;
+        }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        .error-message {
+            color: #d63031; text-align: center; padding: 15px; background-color: #ffebee;
+            border: 1px solid #ffcdd2; border-radius: 6px; font-weight: 500;
+        }
+
+        /* Bubble Chart Specific */
+        .bubble { cursor: pointer; transition: transform 0.2s ease-out, fill 0.2s ease-out; }
+        .bubble:hover { transform: scale(1.05); }
+        .bubble-label {
+            font-size: 10px;
+            text-anchor: middle;
+            fill: white;
+            pointer-events: none; /* So hover on bubble still works */
+            font-weight: 500;
+        }
+
+        /* Skills by City Specific */
+        .skills-by-city-legend {
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: #f8f9fa;
+            border-radius: 6px;
+            text-align: center;
+        }
+        .legend-item {
+            display: inline-block;
+            padding: 6px 12px;
+            margin: 5px;
+            background-color: #e9ecef;
+            border-radius: 15px; /* Pill shape */
+            font-size: 0.9em;
+            cursor: pointer;
+            transition: background-color 0.2s, color 0.2s;
+            border: 1px solid transparent;
+        }
+        .legend-item:hover {
+            background-color: #dfe6e9;
+        }
+        .legend-item.active {
+            background-color: var(--primary-color);
+            color: white;
+            border-color: var(--primary-color);
+            font-weight: 500;
+        }
+        .city-skills-grid {
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 25px; margin-top: 10px;
+        }
+        .city-skill-card { /* Re-use chart-container style, already applied via class */ }
+        .city-skill-card h3 {
+            font-size: 1.1em; color: var(--primary-color); margin-bottom: 10px;
+            font-weight: 500; text-align: center;
+        }
+        .city-skill-card svg { min-height: 220px; }
+
+        /* Highlight for skill in city charts */
+        .city-skill-bar.highlighted {
+            fill: var(--hover-highlight-color) !important; /* Use important to override base color */
+            stroke: #f0ad4e;
+            stroke-width: 1.5px;
+        }
+        .city-skill-bar.dimmed {
+            opacity: 0.3;
+        }
+
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Interactive Job Market Insights</h1>
+    <p>Understanding Requirements for Python Developers (Data from hh.ru)</p>
+</header>
+
+<div class="dashboard-grid">
+    <div class="chart-container" id="top-skills-container">
+        <h2>Top In-Demand Skills (Bubble Chart)</h2>
+        <div class="loader-container"><div class="loader"></div></div>
+        <svg id="top-skills-chart"></svg>
+    </div>
+    <div class="chart-container" id="skill-salary-container">
+        <h2>Average Salary by Skill</h2>
+        <div class="loader-container"><div class="loader"></div></div>
+        <svg id="skill-salary-chart"></svg>
+    </div>
+    <div class="chart-container full-width-chart" id="skills-by-city-container">
+        <h2>Top Skills by Dominant Cities (Interactive)</h2>
+        <div class="loader-container"><div class="loader"></div></div>
+        <div id="skills-by-city-legend" class="skills-by-city-legend" style="display:none;"></div>
+        <div id="skills-by-city-charts" class="city-skills-grid"></div>
+    </div>
+</div>
+<div class="tooltip"></div>
+
+<script>
+    const defaultMargin = {top: 30, right: 30, bottom: 70, left: 140};
+    const defaultChartWidth = 420 - defaultMargin.left - defaultMargin.right;
+    const defaultChartHeight = 320 - defaultMargin.top - defaultMargin.bottom;
+    const topNSkillsOverall = 20; // Increased for bubble chart
+
+    const tooltip = d3.select(".tooltip");
+    const colorPalette = ["#007bff", "#17a2b8", "#28a745", "#ffc107", "#fd7e14", "#6f42c1", "#e83e8c", "#6610f2", "#20c997", "#dc3545"];
+    const colorScale = d3.scaleOrdinal(colorPalette);
+
+    function showLoader(containerSelector) { 
+        d3.select(containerSelector).select(".loader-container").style("display", "flex");
+        d3.select(containerSelector).select("svg").style("display", "none");
+        d3.select(containerSelector).select(".city-skills-grid").style("display", "none");
+        d3.select(containerSelector).select(".skills-by-city-legend").style("display", "none");
+    }
+    function hideLoader(containerSelector) { 
+        d3.select(containerSelector).select(".loader-container").style("display", "none");
+        d3.select(containerSelector).select("svg").style("display", "block");
+        d3.select(containerSelector).select(".city-skills-grid").style("display", "grid");
+        d3.select(containerSelector).select(".skills-by-city-legend").style("display", "block"); // Changed to block
+    }
+    function showError(containerSelector, message) { 
+         hideLoader(containerSelector);
+         d3.select(containerSelector).select("svg").remove();
+         d3.select(containerSelector).select(".city-skills-grid").remove();
+         d3.select(containerSelector).select(".skills-by-city-legend").remove();
+         d3.select(containerSelector).append("div").attr("class", "error-message").html(message);
+    }
+
+    // --- 1. Top Overall Skills - Bubble Chart ---
+    showLoader("#top-skills-container");
+    d3.json("/api/jobdata/all").then(function(apiData) {
+        hideLoader("#top-skills-container");
+        if (!apiData || apiData.length === 0 || apiData.error) {
+            showError("#top-skills-container", apiData.error || "No data found for top skills.");
+            return;
+        }
+        const skillCounts = {};
+        apiData.forEach(d => {
+            if (d.key_skills) {
+                const skills = d.key_skills.split(',').map(skill => skill.trim()).filter(skill => skill);
+                skills.forEach(skill => { skillCounts[skill] = (skillCounts[skill] || 0) + 1; });
+            }
+        });
+        const skillsForBubble = Object.entries(skillCounts)
+            .map(([name, value]) => ({name, value})) // d3.pack needs 'value'
+            .sort((a, b) => b.value - a.value)
+            .slice(0, topNSkillsOverall);
+
+        if (skillsForBubble.length > 0) {
+            createBubbleChart("#top-skills-chart", skillsForBubble);
+        } else {
+            showError("#top-skills-container", "Not enough skill data for bubble chart.");
+        }
+    }).catch(err => showError("#top-skills-container", "Failed to load top skills data.<br/>Details: " + err.message));
+
+    // --- 2. Skill vs. Average Salary Chart (Keep as Bar Chart) ---
+    showLoader("#skill-salary-container");
+    d3.json("/api/jobdata/skill_salary").then(function(apiData) {
+        hideLoader("#skill-salary-container");
+        if (!apiData || apiData.length === 0 || apiData.error) {
+            showError("#skill-salary-container", apiData.error || "No data found for skill vs salary analysis.");
+            return;
+        }
+        createBarChart("#skill-salary-chart", apiData, d => d.skill, d => d.avg_salary, "Skill", "Avg. Salary (RUB)", true, 140, d3.format(",.0f"));
+
+    }).catch(err => showError("#skill-salary-container", "Failed to load skill/salary data.<br/>Details: " + err.message));
+
+    // --- 3. Top Skills by Top Cities (with Interactive Legend) ---
+    let allCitySkillData = []; 
+    let uniqueSkillsForLegend = new Set();
+
+    showLoader("#skills-by-city-container");
+    d3.json("/api/jobdata/skills_by_city").then(function(apiData) {
+        // No hideLoader here, it's handled after legend and charts
+         if (!apiData || apiData.length === 0 || apiData.error) {
+            showError("#skills-by-city-container", apiData.error || "No data found for skills by city analysis.");
+            return;
+        }
+        allCitySkillData = apiData; 
+        const container = d3.select("#skills-by-city-charts");
+        container.selectAll("*").remove();
+
+        apiData.forEach((cityData, i) => {
+            cityData.skills.forEach(skillObj => uniqueSkillsForLegend.add(skillObj.skill)); 
+
+            const cityCard = container.append("div").attr("class", "city-skill-card chart-container");
+            cityCard.append("h3").text(`${cityData.city} (Vacancies: ${cityData.vacancy_count})`);
+            const svgId = `city-skills-svg-${cityData.city.toLowerCase().replace(/[^a-z0-9]/g, '-')}-${i}`; // More robust ID
+            cityCard.append("svg").attr("id", svgId).style("min-height", "220px");
+
+            if (cityData.skills && cityData.skills.length > 0) {
+                const miniMargin = {top: 20, right: 20, bottom: 60, left: 110};
+                // Calculate width based on parent, but with a min/max
+                const parentWidth = d3.select("#skills-by-city-charts").node().getBoundingClientRect().width / 
+                                  (apiData.length > 2 ? 2 : apiData.length) - (30 * ((apiData.length > 2 ? 2 : apiData.length)-1) ); // Account for gap
+                const miniChartContainerWidth = Math.max(300, Math.min(parentWidth, 450)) - (miniMargin.left + miniMargin.right + 50) ; // 50 for padding within card
+                
+                const miniWidth = miniChartContainerWidth > 0 ? miniChartContainerWidth : 150; // Fallback width
+                const miniHeight = 220 - miniMargin.top - miniMargin.bottom;
+                createBarChart(
+                    `#${svgId}`, cityData.skills, d => d.skill, d => d.count, "Skill", "Freq.", true, 
+                    miniMargin.left, d => d, {width: miniWidth, height: miniHeight, margin: miniMargin}, i
+                );
+            } else { 
+                cityCard.select("svg").remove();
+                cityCard.append("p").style("text-align","center").style("padding","20px 0").text("No specific skill data for this city.");
+            }
+        });
+        populateSkillsLegend(Array.from(uniqueSkillsForLegend).sort()); 
+        hideLoader("#skills-by-city-container"); // Hide loader after everything is set up
+    }).catch(err => showError("#skills-by-city-container", "Failed to load skills by city data.<br/>Details: " + err.message));
+
+    function populateSkillsLegend(skills) {
+        const legendContainer = d3.select("#skills-by-city-legend");
+        legendContainer.selectAll("*").remove(); 
+        if (skills.length === 0) {
+            legendContainer.style("display", "none");
+            return;
+        }
+        // legendContainer.style("display", "block"); // This is handled by hideLoader now
+
+        skills.forEach(skill => {
+            legendContainer.append("span")
+                .attr("class", "legend-item")
+                .text(skill)
+                .on("click", function() {
+                    const isActive = d3.select(this).classed("active");
+                    legendContainer.selectAll(".legend-item").classed("active", false); 
+                    if (!isActive) {
+                        d3.select(this).classed("active", true);
+                        highlightSkillInCityCharts(skill);
+                    } else {
+                        highlightSkillInCityCharts(null); 
+                    }
+                });
+        });
+    }
+
+    function highlightSkillInCityCharts(selectedSkill) {
+        allCitySkillData.forEach((cityData, i) => {
+            const svgId = `city-skills-svg-${cityData.city.toLowerCase().replace(/[^a-z0-9]/g, '-')}-${i}`;
+            const svg = d3.select(`#${svgId}`);
+            svg.selectAll(".city-skill-bar") 
+                .classed("highlighted", d => selectedSkill && d.skill === selectedSkill)
+                .classed("dimmed", d => selectedSkill && d.skill !== selectedSkill)
+                .style("fill", function(d) { // Reset fill if not dimmed/highlighted
+                    if (!selectedSkill) { // If clearing selection
+                         const originalIndex = cityData.skills.indexOf(d);
+                         return colorScale((originalIndex + i) % colorPalette.length); // Recalculate original color
+                    }
+                    return d3.select(this).classed("highlighted") ? null : colorScale((cityData.skills.indexOf(d) + i) % colorPalette.length) ;
+                });
+        });
+    }
+
+    function createBubbleChart(svgSelector, data) {
+        const svgContainer = d3.select(svgSelector);
+        svgContainer.selectAll("*").remove();
+
+        const containerNode = svgContainer.node().closest(".chart-container");
+        let containerWidth = defaultChartWidth + defaultMargin.left + defaultMargin.right; // Default
+        let containerHeight = defaultChartHeight + defaultMargin.top + defaultMargin.bottom; // Default
+
+        if(containerNode) { // Get actual size of the container for responsiveness
+            const rect = containerNode.getBoundingClientRect();
+            containerWidth = rect.width - 40; // Account for padding in chart-container
+            containerHeight = rect.height - 70; // Account for title and padding
+        }
+        containerWidth = Math.max(300, containerWidth);
+        containerHeight = Math.max(250, containerHeight);
+
+
+        const pack = d3.pack()
+            .size([containerWidth, containerHeight]) 
+            .padding(8); // Increased padding
+
+        const root = pack(d3.hierarchy({ children: data }).sum(d => d.value));
+
+        const svg = svgContainer
+            .attr("width", containerWidth)
+            .attr("height", containerHeight)
+            .append("g")
+            .attr("transform", `translate(0,0)`); 
+
+        const node = svg.selectAll(".node")
+            .data(root.leaves())
+            .join("g")
+            .attr("class", "node")
+            .attr("transform", d => `translate(${d.x},${d.y})`);
+
+        node.append("circle")
+            .attr("class", "bubble")
+            .attr("r", 0) // Start with 0 radius for transition
+            .attr("fill", (d,i) => colorScale(i % colorPalette.length))
+            .style("opacity", 0.85)
+            .transition().duration(600).delay((d,i)=> i * 20)
+            .attr("r", d => d.r);
+
+        node.append("text")
+            .attr("class", "bubble-label")
+            .attr("dy", "0.3em")
+            .style("font-size", d => Math.max(7, Math.min(d.r / 3.5, 13)) + "px") 
+            .text(d => {
+                const maxChars = Math.floor(d.r / 4.5); // Adjust character fitting
+                return d.data.name.length > maxChars && maxChars > 3 ? d.data.name.substring(0, maxChars -1) + "…" : d.data.name;
+            }) 
+            .style("opacity", 0)
+            .transition().duration(600).delay((d,i)=> i * 20 + 150)
+            .style("opacity", 1);
+
+        node.on("mouseover", function(event, d) {
+                const circle = d3.select(this).select("circle");
+                circle.transition().duration(150)
+                  .style("opacity", 1)
+                  .attr("fill", d3.rgb(circle.attr("fill")).brighter(0.4));
+                tooltip.style("opacity", 1);
+                tooltip.html(`<strong>${d.data.name}</strong><br/>Frequency: <span class="value">${d.data.value}</span>`)
+                    .style("left", (event.pageX + 12) + "px")
+                    .style("top", (event.pageY - 10) + "px");
+            })
+            .on("mouseout", function(event, d) {
+                const circle = d3.select(this).select("circle");
+                circle.transition().duration(150)
+                  .style("opacity", 0.85)
+                  .attr("fill", (datum, idx) => colorScale(root.leaves().indexOf(d) % colorPalette.length));
+                tooltip.style("opacity", 0);
+            });
+    }
+
+    function createBarChart(svgSelector, chartData, xAccessor, yAccessor, xAxisLabelText, yAxisLabelText, isHorizontal, customLeftMargin, xTickFormat = d => d, dimensions, colorOffset = 0) {
+        const svgContainer = d3.select(svgSelector);
+        svgContainer.selectAll("*").remove();
+
+        const currentMargin = dimensions ? dimensions.margin : defaultMargin;
+        const currentWidth = dimensions ? dimensions.width : defaultChartWidth;
+        const currentHeight = dimensions ? dimensions.height : defaultChartHeight;
+        const finalLeftMargin = customLeftMargin || currentMargin.left;
+
+        const svg = svgContainer
+            .attr("width", currentWidth + finalLeftMargin + currentMargin.right)
+            .attr("height", currentHeight + currentMargin.top + currentMargin.bottom)
+            .append("g")
+            .attr("transform", `translate(${finalLeftMargin},${currentMargin.top})`);
+
+        if (isHorizontal) {
+            const yScale = d3.scaleBand().domain(chartData.map(xAccessor)).range([0, currentHeight]).padding(0.25);
+            const xScale = d3.scaleLinear().domain([0, d3.max(chartData, yAccessor) || 1]).nice().range([0, currentWidth]);
+
+            svg.append("g").call(d3.axisLeft(yScale).tickSizeOuter(0))
+                .selectAll(".tick text").call(wrapText, finalLeftMargin - 15);
+
+            svg.append("g").attr("transform", `translate(0,${currentHeight})`)
+                .call(d3.axisBottom(xScale).ticks(Math.min(5, d3.max(chartData, yAccessor) || 1)).tickFormat(xTickFormat).tickSizeOuter(0));
+
+            svg.selectAll(".bar_placeholder") 
+                .data(chartData)
+                .join("rect")
+                .attr("class", svgSelector.includes("city-skills-svg") ? "bar city-skill-bar" : "bar")
+                .attr("y", d => yScale(xAccessor(d)))
+                .attr("x", 0)
+                .attr("height", yScale.bandwidth())
+                .attr("fill", (d,i) => colorScale((i + colorOffset) % colorPalette.length))
+                .attr("width", 0)
+                .transition().duration(700).delay((d,i) => i * 30)
+                .attr("width", d => Math.max(0, xScale(yAccessor(d)))); // Ensure non-negative width
+            
+            svg.selectAll(".bar, .city-skill-bar") 
+                .on("mouseover", function(event, d) {
+                    if (!d3.select(this).classed("dimmed")) { 
+                        d3.select(this).style("fill", d3.rgb(d3.select(this).attr("fill")).brighter(0.3));
+                    }
+                    tooltip.style("opacity", 1);
+                    const xVal = xAccessor(d);
+                    const yVal = yAccessor(d);
+                    let tooltipText = `<strong>${xVal}</strong><br/>${yAxisLabelText}: <span class="value">${xTickFormat(yVal)}</span>`;
+                    if(d.count && typeof d.avg_salary !== 'undefined') { // Check for avg_salary to identify skill-salary chart
+                         tooltipText += `<br/>Based on: <span class="value">${d.count}</span> vacancies`;
+                    }
+                    tooltip.html(tooltipText)
+                        .style("left", (event.pageX + 12) + "px")
+                        .style("top", (event.pageY - 10) + "px");
+                })
+                .on("mouseout", function(event,d) {
+                     if (!d3.select(this).classed("dimmed")) {
+                        // Find the original index in chartData to correctly re-apply color
+                        const originalIndex = chartData.findIndex(item => xAccessor(item) === xAccessor(d));
+                        d3.select(this).style("fill", colorScale((originalIndex + colorOffset) % colorPalette.length) );
+                     }
+                    tooltip.style("opacity", 0);
+                });
+            
+             svg.append("text").attr("class", "axis-label").attr("text-anchor", "middle")
+                .attr("x", currentWidth / 2).attr("y", currentHeight + currentMargin.bottom * 0.75 -10)
+                .text(yAxisLabelText);
+            svg.append("text").attr("class", "axis-label").attr("text-anchor", "middle")
+                .attr("transform", "rotate(-90)")
+                .attr("y", 0 - finalLeftMargin + (finalLeftMargin > 120 ? 40 : 25))
+                .attr("x", 0 - (currentHeight / 2))
+                .text(xAxisLabelText);
+        }
+    }
+    function wrapText(text, width) { 
+        text.each(function() {
+            const text = d3.select(this);
+            const words = text.text().split(/\s+/).reverse();
+            let word, line = [], lineNumber = 0;
+            const lineHeight = 1.1, y = text.attr("y"), dy = parseFloat(text.attr("dy") || 0);
+            text.text(null);
+            let tspan = text.append("tspan").attr("x", -8).attr("y", y).attr("dy", dy + "em");
+            while (word = words.pop()) {
+                line.push(word);
+                tspan.text(line.join(" "));
+                if (tspan.node().getComputedTextLength() > width && line.length > 1) {
+                    line.pop(); tspan.text(line.join(" ")); line = [word];
+                    tspan = text.append("tspan").attr("x", -8).attr("y", y).attr("dy", (++lineNumber * lineHeight + dy) + "em").text(word);
+                }
+            }
+        });
+    }
+</script>
+</body>
+</html>

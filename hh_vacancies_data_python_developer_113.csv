@@ -1,0 +1,1001 @@
+vacancy_id,vacancy_name,salary_from,salary_to,salary_currency,salary_gross,address_raw,key_skills
+119970695,"Junior python разработчик (Django, Fast API)",40000,60000,RUR,False,"Москва, Мясницкая улица, 24/7с1","Python, PostgreSQL, FastAPI, Git, Django Framework, GitHub, REST API, Оптимизация кода"
+119312005,Python Developer,,,,,"Нижний Новгород, улица Пискунова, 29","Python, Django Framework, Git, REST, ООП, СУБД"
+120327515,Python разработчик,195000,230000,RUR,True,,"Python, UI, Docker, Elasticsearch"
+119787879,Junior Python developer,100000,130000,RUR,False,"Москва, Новоданиловская набережная, 12","Python, Git, PostgreSQL, SQL, Docker"
+119404193,Junior+/Middle Python Developer,800,1400,EUR,False,,"Python, PostgreSQL, MySQL, REST API, pandas, Docker, Docker-compose, Debian, Ubuntu, CentOS, CI/CD, Pytest, Unit Testing, Celery, Redis, RabbitMQ, OWASP, SQLAlchemy, JWT, Power BI, Kubernetes, Prometheus, Grafana, Azure"
+120297725,Python-разработчик (Django) Junior,60000,,RUR,True,,
+119496582,Программист Python junior,100000,100000,RUR,True,"Москва, улица Солянка","Python, Git, Linux, SQL, C, HTML5, CSS, HTTP, TCP/IP"
+120241196,Python-разработчик (Junior),50000,,RUR,False,"Нижний Новгород, Окский съезд, 8","Python, MySQL, Redis, Linux, Git, Docker, RabbitMQ"
+120314795,Программист Python / Разработчик Python,,,,,"Санкт-Петербург, набережная Обводного канала, 14к3","Обучение и развитие, Разработка инструкций, 1С: Предприятие"
+120041031,Junior Python разработчик (команда R&D),,,,,"Санкт-Петербург, Выборгская набережная, 47",
+120292881,Python-разработчик,,,,,"Барнаул, Балтийская улица, 20",
+80736556,Разработчик Python,30000,80000,RUR,False,"Ростов-на-Дону, Нахичевань, улица 14-я Линия, 55/50","Python, Git, PostgreSQL, Linux, SQL"
+119757256,Python-разработчик,250000,300000,RUR,False,"Санкт-Петербург, улица Фучика, 8","Python, SQL, MS SQL"
+120308106,Разработчик Python (Стажер),,,,,,"Python, ООП"
+119430195,Python Backend Developer,,,,,"Санкт-Петербург, 1 линия, метро Площадь Восстания",
+118642955,Python-разработчик,,,,,"Нижний Новгород, Рождественская улица, 6","Python, PostgreSQL, SQL, Аналитика, Базы данных, Аналитическое мышление, Yandex.DataLens, Apache Airflow, Git"
+120308107,Разработчик Python (Стажер),,,,,,"Python, ООП"
+118572460,Python-разработчик,,570000,RUR,True,,"Python, FastAPI, aiohttp, RabbitMQ, Django, asyncio"
+119516520,Python-разработчик,250000,,RUR,False,,"Python, FastAPI, Elasticsearch, Docker, Docker-compose, Docker Swarm, CI/CD, Ansible, Python asyncio, gRPC, API Gateway, GO"
+117694116,Backend разработчик (Python DRF),,,,,"Москва, Профсоюзная улица, 76","Python, Git, PostgreSQL, Django Framework, Linux"
+120339123,Python разработчик,,,,,"Москва, Садовническая улица, 82с2","Python, API, ML, Семантический анализ"
+120338299,Python-разработчик,,,,,"Москва, Вавилова улица, 9",
+120311917,Программист-разработчик (Python),,,,,"Москва, Триумфальная площадь, 1","Python, MySQL, PostgreSQL, Django Rest Framework, FastAPI, PHP, Docker, Jenkins"
+120317383,Middle Python-разработчик,120000,150000,RUR,False,"Омск, улица Туполева, 6к1",
+119250276,Разработчик Python / Middle Python Developer,,,,,,"Python, PostgreSQL, Clickhouse, Greenplum"
+102422415,Python-программист Middle,300000,400000,RUR,True,,"Python, Django Framework, FastAPI, MySQL, PostgreSQL, PyAudio, YandexRecognaizer, SIP"
+120244800,Python-разработчик,80000,,RUR,False,"Тула, улица Каминского, 24","Python, Linux, SQL, MQTT, REST API, FastAPI, OpenCV"
+120231103,Python разработчик Middle/Senior,1000,2500,RUR,False,,"Python, REST API, API, PostgreSQL, SQLAlchemy, Gitlab, Наставничество, Коммуникабельность"
+120345556,Junior developer (разработчик Phyton),70000,,RUR,True,,
+119884295,"Junior Python developer (back-end, в офис)",60000,,RUR,False,"Новосибирск, улица Николаева, 9/1",
+119766911,Python-разработчик,100000,,RUR,True,"Нижний Новгород, Алексеевская улица, 15",
+120318585,Middle Backend Разработчик,160000,,RUR,False,,Python
+119643596,Python-разработчик,,,,,"Екатеринбург, улица Азина, 24","Python, Git, REST API, VueJS, Django Framework, JavaScript, MySQL"
+119864528,"Backend Python Developer (FastAPI, FinTech)",,350000,RUR,False,,"Python, FastAPI, SQL"
+120336404,Разработчик,,,,,"Москва, Походный проезд, 4к1",
+120249436,Python/Selenium разработчик / Специалист по веб-скрапингу,1000,,USD,True,,
+117565527,Python backend developer (FastAPI),160000,220000,RUR,False,,"PostgreSQL, Django Framework, MySQL, Redis, MongoDB, Flask, Scrum, REST, Kubernetes, Docker, InfluxDB, Jenkins, Git, FastAPI"
+119641856,Python разработчик,,,,,,"Python, PostgreSQL, FastAPI, Django Framework, Highload, Apache Airflow, Apache Kafka"
+117486834,Python Developer,,,,,"Москва, Кутузовский проспект, 32к1","Python, PostgreSQL, RabbitMQ, FastAPI"
+118893075,Python Developer,,,,,,
+87838855,Разработчик Python,250000,350000,RUR,True,,
+120232369,Middle Python разработчик,,,,,,"Python, Математическое моделирование, PostgreSQL, FastAPI, Docker, Git, ООП, CI/CD, SQLAlchemy, pandas, Numpy, Моделирование процессов, Базы данных, Unit Testing, Nginx, Redis"
+120225200,Python-разработчик (Middle),,,,,"Москва, Одесская улица, 2кА","Python, FastAPI, Agile, Асинхронное программирование, Git, Redis, Kubernetes, Gitlab, Микросервисная архитектура, API, Aiohttp, ООП, Docker, Docker-compose, REST"
+120242174,Python-разработчик (Казань),,,,,"Казань, Чистопольская улица, 11",
+119827529,Middle python-разработчик,,250000,RUR,True,,
+118503362,Backend-разработчик (Python) junior,,,,,"Томск, проспект Фрунзе, 32А","Python, PostgreSQL, Django Framework, FastAPI"
+117284077,Junior Python разработчик Службы планирования (ML),,,,,,
+119972541,Data-инженер/Python-разработчик,,,,,"Санкт-Петербург, Большая Московская улица, 1-3","SQL, Тестирование баз данных, Python, ETL, API, Аналитика маркетплейсов"
+116694017,Программист-разработчик Python,200000,,RUR,False,"Москва, 1-й Красногвардейский проезд, 15","Django Rest Framework, PostgreSQL, FastAPI, SQL, NoSQL, Django, Kafka, RabbitMQ, Celery, Docker, git, CLI, ORM, Коммерческая разработка на Python, Английский язык"
+120179277,Разработчик (без опыта),20000,40000,RUR,True,"Санкт-Петербург, набережная Обводного канала, 21","Python, Celery, Docker, JavaScript, RabbitMQ, Elasticsearch, Django"
+119572573,Middle Python разработчик (Django/Fastapi),220000,290000,RUR,False,,"Python, PostgreSQL, NoSQL, MySQL, Golang, FastAPI, Django Framework, Django Rest Framework, Celery, RabbitMQ, C/C++, Kubernetes, Docker"
+120269312,Python-разработчик,,,,,,
+118967420,Python разработчик (Django),,360000,RUR,False,,"Docker, CI/CD, Requests, Django Framework, Python, FastAPI"
+120261208,Python разработчик,,,,,"Уфа, улица Бехтерева, 3к1","Git, Linux, PostgreSQL, Python, Docker, Разработка нового продукта, SQL, RabbitMQ, ELK, Qt, Agile, Elasticsearch, SaaS, ORACLE"
+119971147,Python разработчик (Wordpress),70000,100000,RUR,False,"Москва, Мясницкая улица, 24/7с1","Python, PostgreSQL, FastAPI, Git, Django Framework"
+120276872,Senior Python developer/ Ведущий разработчик (FastAPI),300000,,RUR,False,"Москва, Новоданиловская набережная, 12",
+120290047,Backend-разработчик,,150000,RUR,False,"Казань, Кремлёвская набережная, 3",
+119819055,Python Developer,,,,,"Москва, Ленинградский проспект, 36с41","Python, Docker, Linux, Gitlab, REST API"
+119601093,Junior QA Automation (Python),,,,,"Москва, Варшавское шоссе, 125","QA, Black box testing, Политика тестирования, TestRail, UAT-тестирование, Тестирование по тест-кейсам, Приемочное тестирование, Системное тестирование, Позитивное тестирование, Анализ тестирования, Тестирование ПО, Тест-план, Python, Bash, Linux, Git, QEMU, VMware"
+120010301,Python-разработчик,,,,,"Воронеж, Московский проспект, 19Б","Python, JSON, pandas, Flask"
+120187492,"Программист Python (Django, FastAPI)",60000,100000,RUR,True,"Благовещенск, Зейская улица, 173","Работа в команде, Python, Django Framework, HTML5, CSS3, JavaScript, C++, Git, PostgreSQL, MySQL, SQL, Веб-программирование, FastAPI, Celery, Redis, JSON API, Разработка ПО, Django, Flask, Docker, Backend, REST, REST API, API"
+119642834,"Разработчик-ассистент техдиректора (API, React TypeScript, Strapi, Python, автоматизация)",80000,120000,RUR,False,,"Python, SQL, PostgreSQL, GitHub, Git, REST API, SQLAlchemy"
+119788286,Middle Python developer,150000,230000,RUR,False,"Москва, Новоданиловская набережная, 12","Python, PostgreSQL, Docker, SQL, Kubernetes"
+118783196,Старший Python разработчик,160000,240000,RUR,False,,"Linux, Python, SQL, Docker, PostgreSQL, REST API, Django Rest Framework, FastAPI, Django Framework, SQLAlchemy, Микросервисная архитектура"
+116630166,Программист / Python,,,,,"Санкт-Петербург, Учительская ул., 2","Python, Разработка ПО, Моделирование, Имитационное моделирование, Английский язык, SCADA, PyCharm, PyQt"
+120322197,AI / ML developer / ML-инженер,180000,250000,RUR,True,,"Python, Julia, Flux, ComfyUI, TensorRT, ONNX, Machine Learning, Stable Diffusion, Image generation, Generative AI, Работа с нейросетями, LLM, LoRa"
+119694483,Программист PHP+ Python В ОФИС,109200,189200,RUR,False,"Санкт-Петербург, Введенский канал, 7","PHP, SQL, Python, Linux, JavaScript, Git"
+119249990,Python разработчик (продукты e-com),,,,,,"Python, PostgreSQL, Django Framework, Apache Kafka, RabbitMQ, Celery"
+119334987,Python разработчик,,,,,,"Python, Flask, Redis, Docker, Kubernetes, Celery, PostgreSQL, API, Backend, Работа с базами данных, aiohttp, DevOps, AWS, ML"
+120227765,Senior Python Developer в FinTech-продукт,4500,6000,USD,False,,"Python, Django Rest Framework, Django Framework, PostgreSQL, Celery"
+117127975,Python-разработчик,,,,,"Владимир, улица Сакко и Ванцетти, 50","Linux, Git, Python, PostgreSQL, Django Framework, Flask, Jira, REST API, Docker, Docker-compose, REST, CI/CD, RabbitMQ, Celery"
+120213850,Senior Backend developer - Python / Бэкенд Разработчик,4500,,USD,False,,
+120209408,Python разработчик (senior / агрегатор туров),200000,300000,RUR,False,"Москва, Скаковая улица, 17с2",
+116493668,Backend разработчик (Python),,120000,RUR,False,"Томск, проспект Ленина, 80А","Python, asyncio, PostgreSQL, MongoDB, RabbitMQ"
+119839166,Python Developer (Data Science),,,,,"Санкт-Петербург, Выборгская набережная, 47",
+119774110,Junior Python разработчик,72680,,RUR,True,"Краснодар, Центральный внутригородской округ, микрорайон Центральный, улица Будённого, 182",
+119218574,Python программист/разработчик,250000,,RUR,False,,"Python, PostgreSQL, Apache Airflow, Apache Kafka, Docker, Grafana, Kubernetes"
+118416065,Data Engineering Intern / Стажер дата-инженер,100000,,RUR,True,"Москва, Ленинградское шоссе, 16ас2",
+115205872,Инженер-программист Python (01050-1),95000,,RUR,False,"г. Москва, шоссе Энтузиастов, дом 29","SQL, Linux, python3, Python, JavaScript, XML, JSON"
+119138947,Разработчик Python/GO,250000,,RUR,False,"Москва, Калужско-Рижская линия, метро Калужская","Python, Golang, Linux, REST API, gRPC, CI/CD, Оптимизация кода, OpenStack, oVirt, Docker, Работа в команде"
+120312774,Python разработчик (Middle),,,,,,"Python, PostgreSQL, Django Framework, Django, Docker, ORM, RabbitMQ, Redis, Git, Atlassian Confluence, Jira, JavaScript, Удаленная работа"
+120125896,"Python-разработчик (ML, Антифрод)",,,,,,"Python, SQL, Clickhouse, ETL, Apache Airflow, MySQL, PostgreSQL, Linux, Оптимизация кода"
+120036856,Python Developer (ЭДО),,,,,"Санкт-Петербург, Выборгская набережная, 47",
+119350988,Python-разработчик,120000,130000,RUR,False,,"Python, SQL, Linux, NoSQL, Django Rest Framework, Bash, VueJS, React, FastAPI, Yandex Cloud, Amazon Web Services, REST API, ChatGPT, Docker, Kubernetes"
+120347636,Методолог-программист (разработка курса по Python),,,,,,"Python, Разработка курсов, Методология обучения, Образовательный контент, YouTube-обучение, Структурирование материалов, Педагогический дизайн, Скриптрайтинг, Практические задания, Онлайн образование, EdTech, Адаптация контента, Чек-листы, Локализация контента, Обучение для начинающих"
+119329037,Python-разработчик,,,,,"Санкт-Петербург, Белоостровская улица, 6","Python, SQL, PostgreSQL, GitHub, Docker, Kafka"
+120274200,Middle Backend Developer Python,,,,,,"Django Framework, Python, FastAPI, Celery, Selenium"
+120087155,Trainee/Intern/Junior Python backend developer,20000,40000,RUR,True,"Санкт-Петербург, набережная Обводного канала, 21","Python, Celery, Docker, JavaScript, RabbitMQ, Elasticsearch, Redis, PostgreSQL, MongoDB, Django, Nginx, Kubernetes"
+119951214,Python-разработчик,40000,80000,RUR,False,,"Python, Git, Django Framework, Docker, Elasticsearch, REST, REST API, API, GitHub, ORM, Backend, CI/CD"
+120044355,Веб-программист (Python),,,,,"Москва, Ленинградский проспект, 15с1","Python, Linux, Git, PostgreSQL, Django Framework, Веб-программирование"
+120245828,Middle Backend Python программист,,,,,"Белгород, улица Королёва, 2Ак3",
+119556856,ML-инженер,,300000,RUR,True,,"Python, Deep Learning, Natural Language Processing, Docker"
+111235935,Python Developer in Test / Инженер-программист (KORNFELD),,,,,,"Python, asyncio, SQLAlchemy, Pytest, Тестирование, Linux"
+115175808,Python | Go Developer,,,,,,
+115906251,Python-разработчик,,,,,"Москва, Арбатская площадь, 1",
+118910186,Python Developer Senior,,,,,"Москва, Хорошёвское шоссе","Python, SAGA GIS, PostgreSQL, DDD, EDA, FastAPI"
+119120327,Разработчик Python (middle),,,,,"Пермь, улица Газеты Звезда, 24А","Python, Django Framework, PostgreSQL, MongoDB"
+120030123,"Тестировщик/автоматизатор на Python/С++ (ГИБРИД, БЕЗ УДАЛЕНКИ)",,300000,RUR,False,"Москва, Большая Новодмитровская улица, 14с7","Английский язык, Python, Тестирование, Atlassian Jira"
+110607224,Python Back-end Разработчик (веб-сервисы) / Python Back-end Developer (web services),,,,,,"Python, Linux, PostgreSQL, Flask, Redis, Docker"
+120332590,Разработчик Python,,,,,,
+120027646,ML-программист,250000,350000,RUR,False,,MLflow
+120025404,Python-разработчик,160000,,RUR,False,,"ООП, SQL, QGIS, Qt, CI/CD, Git, Python"
+119170068,Python Developer Middle+,,,,,"Москва, 1-й Красногвардейский проезд, 21с1","Python, Kafka, Gitlab, MS SQL, PostgreSQL, API Gateway, Kubernetes, Docker"
+118846616,Программист-алгоритмист,250000,,RUR,False,,"OpenCV, ComputerVision, ImageProcessing, VideoAnalytics, C++, Python"
+109965983,Python Developer (Web),,,,,"Санкт-Петербург, площадь Карла Фаберже, 8",
+120110108,Senior Python Developer (Crypto),,400000,RUR,False,,"Python, SQL, NoSQL, Kubernetes, Docker"
+116147115,Python-разработчик (Middle),100000,,RUR,False,"Томск, проспект Ленина, 80А","Python, async, MongoDB, RabbitMQ, FastAPI, PyMongo, AioPika, Numpy, OpenCV, Git, Docker"
+119608817,Data Engineer,,,,,,"Python, SQL, Apache Airflow, ETL-процессы"
+119734470,Программист,80000,,RUR,False,"Томск, проспект Ленина, 60/1",
+116174143,ML Engineer / Инженер машинного обучения,130000,,RUR,False,"Санкт-Петербург, Выборгское шоссе, 17к1","Python, Linux, GitHub, PostgreSQL, TensorFlow, PyTorch, Numpy, NLTK/SpaCy, Librosa/PyDub, LoRA"
+120213938,Senior Backend developer - Python / Бэкенд Разработчик,4500,,USD,False,,
+119325218,Data Science разработчик,220000,,RUR,True,"Санкт-Петербург, Свердловская набережная, 58","Ml-модель, LAS\LAZ, Python, Numpy, pandas, SciPy, Matplotlib, TensorFlow, PyTorch, Scikit-learn, Git, Математический анализ"
+119532772,Python разработчик senior (агрегатор отелей),200000,300000,RUR,False,"Москва, Скаковая улица, 17с2",
+85489891,Python разработчик,,,,,"Екатеринбург, улица Хохрякова, 10",
+119950968,Junior Python Developer (Data),,200000,RUR,True,,
+98214353,Веб-разработчик Python / Web Developer Python,,,,,"Москва, Ленинградский проспект, 15с1","Python, Git, PostgreSQL, HTTP, Django, Docker, jQuery, HTML, CSS, Linux, MongoDB"
+119755802,Технический Лидер (Python),450000,500000,RUR,False,,"Python, KVM, Architectural decision records, Architectural Decision Records, UML, C4"
+117684755,Python developer,,,,,"Москва, Западный административный округ, Можайский район, Инновационный центр Сколково, Большой бульвар, 30с1","Python, FastAPI, REST API, Unit Testing, SOLID, Django Framework, Linux, Bash, PostgreSQL, Docker, Minio, S3, Minio/S3, gRPC, k8s, Nest.js, JavaScript / TypeScript."
+120069461,Разработчик python,,200000,RUR,True,"Пермь, Решетниковский спуск, 1Ю",
+118915281,Разработчик Python,,180000,RUR,False,"Санкт-Петербург, улица Академика Павлова, 14Д","Python, PostgreSQL, Django Framework, Flask, asyncio, MongoDB"
+118299546,Middle Python разработчик,,,,,,"Python, Linux, SQL, Docker, FastAPI"
+116385562,Middle Backend-разработчик (Python),,,,,"Томск, проспект Фрунзе, 32А","Python, Django Framework, PostgreSQL, Django Rest Framework"
+120159472,Python Developer (Antifraud)/Питон Разработчик (Антифрод),,,,,,"Python, Django Framework, PostgreSQL"
+119991530,Python-разработчик (стажер),,,,,"Омск, проспект Комарова, 11к1",
+117077804,Senior Python developer,,,,,"Санкт-Петербург, улица Профессора Попова, 23","Python, Asyncio, AIOHTTP, FastAPI, PostgreSQL, Redis, Kafka, Cassandra, RabbitMQ, Elasticsearch"
+119506098,Программист Python/С++,230000,,RUR,False,"Санкт-Петербург, набережная Чёрной речки, 47с1",
+119806865,Senior python developer,,1800,RUR,True,,"Python, TensorFlow, PostgreSQL, Apache Airflow"
+119960831,Fullstack-разработчик,175000,210000,RUR,True,"Санкт-Петербург, улица Обручевых, 1","Python, JavaScript, Backend, Frontend"
+119772544,Python разработчик (junior),,140000,RUR,False,,
+109201400,Python разработчик,,,,,"Нижний Новгород, Алексеевская улица, 10","Python, Flask, FastAPI"
+118566328,Python-разработчик (ML),120000,175000,RUR,False,"Ростов-на-Дону, улица Города Волос, 6","Python, Django Framework, Flask, FastAPI, TCP/IP, HTTP, HTTPS, SSL, ООП, SOLID, Linux, Git"
+119378723,ML Engineer/Data Science,,350000,RUR,True,,"Машинное обучение, Python, Scala, MLOps, Docker, Kubernetes, CI/CD, Airflow"
+119538480,Backend developer (Senior/Lead),250000,350000,RUR,False,"Москва, проспект Мира, 102с31",
+119900601,Data Scientist в области языковых моделей (Middle),351000,,RUR,True,,
+120158139,"Методист курсов IT (Roblox/Python/HTML, CSS, JavaScript)",30000,,RUR,True,,"Дистанционное обучение, Методика преподавания, Детское образование, Обучение, Педагог, Преподаватель, Roblox, Python, JavaScript, Обучение с учителем"
+119787452,Senior Python developer (Санкт-Петербург),,,,,"Санкт-Петербург, улица Савушкина, 83к3",
+108329139,Python разработчик,,,,,,
+120124618,Python разработчик,90000,220000,RUR,True,село Кош-Агач,Django
+119492160,Robotics Software Developer/Researcher,,,,,,"C++, Python, ROS, Robotics, Engineering, Research And Development, Gitlab, Linux, Английский язык, Software Development, path planning algorithms, autonomous navigation"
+119827956,Python-разработчик,150000,,RUR,False,,
+119881992,Разработчик Python,,,,,,
+120074480,Fullstack QA engineer (Python) / Fullstack инженер по тестированию (Python),,,,,"Санкт-Петербург, Выборгская набережная, 47","Python, Pytest, GitLab CI, Playwright, SQL, Ручное тестирование"
+119538342,Автоматизатор тестирования (AQA Python),180000,230000,RUR,False,,
+117127343,Middle Python-разработчик,,,,,"Владимир, улица Сакко и Ванцетти, 50","Git, Python, Django Framework, Jira, CI/CD, Celery, Nginx, Docker, JavaScript, Node.js, VueJS, Apache Kafka, RMQ, SOLID"
+120106873,Руководитель группы разработки / TeamLead Python Developer,,,,,"Санкт-Петербург, улица Савушкина, 83к3","Python, Clickhouse, Управление командой, FastAPI"
+119505973,Server Developer (Python\C++),,,,,"Москва, Известковый переулок, 1",
+119430032,Инженер-программист Python (тестовое окружение),,,,,"Москва, 3-я Хорошевская улица, 20","Python, Linux"
+120087968,ГИС-разработчик (Тюмень | офис),,,,,"Тюмень, улица Мельникайте, 112с3",
+117811052,Преподаватель Python и Веб-разработки,60000,,RUR,False,"Новосибирск, улица Романова, 39","Программирование, Python, Git, HTML, Преподаватель, CSS, Ответственность, Дружелюбность"
+119851373,Python разработчик,,170000,RUR,False,"Брянск, улица Дуки, 69","Python, SQL, PostgreSQL, Docker, Apache Kafka, RabbitMQ, Unit Testing"
+118221989,Python backend developer,,,,,"Екатеринбург, улица Куйбышева, 41",
+119787459,Python-разработчик,,,,,,"Python, Flask, FastAPI, ORM, MySQL, REST API"
+119015655,Data Base Developer,,,,,,"MySQL, Python, TeamCity, SQL"
+118770116,Backend-разработчик (Python),,,,,,
+119653016,Middle Python Developer (AI & Data Science),,102000,RUR,False,,
+120010100,Python developer,150000,250000,RUR,True,"Калининград, Железнодорожная улица, 4","Python, SQL, PostgreSQL"
+117798344,Программист Python,100000,250000,RUR,True,"Уфа, улица Менделеева, 134/7",
+119879111,Middle Data Engineer,,,,,"Нижний Новгород, Рождественская улица, 6","SQL, REST API, Python, PostgreSQL, Apache Airflow"
+115878755,Разработчик Python,180000,,RUR,False,"Владивосток, Деревенская улица, 14",
+119788937,Fullstack developer / Full-stack разработчик (Middle),150000,150000,RUR,False,,"Python, React, PHP, Angular, Scrum, MySQL, MS SQL, Системное мышление, Django, Django Rest Framework, Redux, PostgreSQL, JavaScript"
+120120504,"Инженер-программист, Разработчик ПО (Python / Full-Stack)",98000,140000,RUR,True,"Тюмень, улица Республики, 252к6","Разработка ПО, Оптимизация кода, MS Visual Studio, Работать в команде, Visual Studio Code, Основы программирования, Git, Transact-SQL, API, Lov-Code, Python, PHP, JavaScript, MongoDB, MS SQL, HTML, XML, PostgreSQL"
+118832344,Python разработчик,100000,250000,RUR,True,"Новосибирск, Кавалерийская улица, 1","GIS, SQL, Python, Базы данных, PostgreSQL, ООП"
+119634238,Fullstack Разработчик (Golang + PostgreSQL + *nix),120000,132000,RUR,False,"Новосибирск, Советский район, микрорайон Академгородок, улица Мусы Джалиля, 3/1","Python, SQL, PostgreSQL, Linux, MySQL, Go, HTTP, Базы данных, Git"
+120059286,Python-разработчик,,,,,"Пермь, шоссе Космонавтов, 111Ик2","Python, Django Framework, SQL, REST, Linux, GraphQL, gRPC, FastAPI, Flask, NoSQL"
+120043531,Python Developer Middle+/Senior,,,,,,"Python, Django, REST API, Pytest, Docker, Gitlab, Flask, Celery"
+120043990,Python Backend Developer Офис Ростов,200000,250000,RUR,True,"Ростов-на-Дону, проспект Михаила Нагибина, 40",
+120012635,Ведущий программист Python,80000,130000,RUR,False,,"Git, PostgreSQL, ООП, Linux, JavaScript, Django Framework, jQuery, Python"
+120055939,Python-разработчик (Pre Middle / Middle),70000,150000,RUR,False,"Тюмень, Физкультурная улица, 70А","Python, REST API, Backend, Git, Паттерны проектирования, JavaScript, Linux, REST, Databases, PostgreSQL, SQL, ООП, Django Framework, Django"
+120028082,Программист-разработчик,70000,,RUR,False,,"Python, GitHub, Алгоритмы и структуры данных, REST API, SQLAlchemy, Google API, JavaScript"
+119560297,Backend-разработчик Python,,180000,RUR,False,"Краснодар, Северная улица, 395","Python, PostgreSQL, SQLAlchemy, Django Framework, Django Rest Framework, SQL, FastAPI, Celery, Docker, Redis"
+120099003,Python Developer (разработчик),,,,,,
+118719352,Python разработчик Junior+/Middle,,,,,"Москва, 3-я Рыбинская улица, 17","Python, Linux"
+119880872,Python Developer в команду разработки протокола хранения данных (Казань),,,,,"Казань, Вахитовский район, Профсоюзная улица, 40-42","ООП, Английский язык, Git, SSH, EVM, DFS, Бинарный Поиск, Хеши, Highload, Docker, Encryption, Digital Signatures, Python3, Python, django, web3"
+119434607,Junior Python Backend Developer,,,,,,"Python, Atlassian Jira, ROS, Pytest, Carla, Git, CI"
+119816136,Python-разработчик,70000,70000,RUR,False,"Тюмень, улица Клары Цеткин, 61к1","Firebase, HTTP, FastAPI, Python, PostgreSQL, Redis, Celery, Git, Docker, Yandex Cloud"
+120125246,Автотестировщик на Python (банковский проект),130000,160000,RUR,False,,"Java, SQL, Python, Apache Kafka, Atlassian Jira, Jenkins, Bash, Git, REST API, Linux, Docker, Hadoop, Apache Spark"
+118723048,Web-разработчик / Backend программист Python,150000,200000,RUR,False,"Калуга, улица Карпова, 24","Python, Git, PostgreSQL, Linux, MongoDB"
+119675281,Python-разработчик,,,,,"Каменск-Уральский, поселок имени Чкалова, Центральная улица, 18","Python, Git, REST API"
+119458694,Junior Python Developer,,75000,RUR,False,"Барнаул, Взлётная улица, 33","MySQL, ООП, PHP, HTML, CSS, HTML/CSS, Java Script, Веб-программирование, JS, Python, 1С программирование, Node.js, Git"
+119924468,Python developer (Багратион),,,,,,
+120064218,Python-разработчик,157500,,RUR,True,,"Apache Ant, Liquibase, Python, Сбор требований, PyCharm, SQLAlchemy, NoSQL, Pytest, Интеграционное тестирование"
+120029793,SDET Python (KATA/NTA),,,,,"Москва, Ленинградское шоссе, 39Ас2","Python, Linux, Pytest, Автоматизированное тестирование, PostgreSQL, SQL"
+120021215,Программист-разработчик python,,,,,,"Python, Unix, Git, Unix shell, UART, I2C, USB, SPI, ARM, STM32, Embedded, CAN, Алгоритмы и структуры данных, GUI, GD32"
+119959235,Middle Python developer,,,,,,
+105758050,Python-разработчик,,,,,,
+120064217,Python-разработчик,157500,,RUR,True,,"Apache Ant, Liquibase, Python, Сбор требований, PyCharm, SQLAlchemy, NoSQL, Pytest, Интеграционное тестирование"
+120038738,Разработчик Python (Middle+),100000,,RUR,True,"Зеленоград, улица Юности, 8","Python, Docker, Аналитическое мышление, Работа с базами данных, REST, Backend, API, Разработка ПО, Анализ данных"
+118591608,Python-разработчик,300000,,RUR,False,Москва,
+120064219,Python-разработчик,157500,,RUR,True,,"Apache Ant, Liquibase, Python, Сбор требований, PyCharm, SQLAlchemy, NoSQL, Pytest, Интеграционное тестирование"
+118989302,"MLops/DE/Junior+, Middle specialist",,,,,,"Python, Apache Airflow, Spark, Bash"
+119827689,Python-разработчик (работа в офисе),,,,,"Грязи, Хлебозаводская улица, 33А",Python
+119780977,Python-developer,175000,,RUR,True,"Санкт-Петербург, Малая Митрофаньевская улица, 1","Python, PostgreSQL, Git, SQL"
+119377830,Стажер Python Back-end (офис),,,,,"Москва, улица Расковой, 34с14","Python, Git, PostgreSQL, SQL, Linux, JavaScript"
+119971553,Программист Python / DevOps,105000,,RUR,True,"Брянск, Советская улица, 81/1","Python, GitHub, Django Rest Framework, Оптимизация кода, Django Framework, Celery, Git, FastAPI, Flask, Redis, Bash, Linux, SQL, PostgreSQL, MySQL, Poetry, SQLAlchemy, REST API, Рефакторинг кода, Requests, API, Agile, Тестирование ПО"
+119770577,Разработчик Python,,,,,Москва,
+120019659,Инженер-разработчик Python (производственное тестирование),,,,,"Санкт-Петербург, улица Шателена, 3","Python, OpenCV, Gitlab"
+119674821,"Разработчик Python (Great Expectations, Spark)",,,,,"Москва, Беговая улица, 3с1","Python, Docker, Kubernetes, Apache Spark, Apache Airflow"
+119573237,Python-разработчик,150000,250000,RUR,True,"Екатеринбург, улица Горького, 24","Python, SQL, Базы данных, PostgreSQL"
+105758081,Python-разработчик,,,,,,
+119471418,Python-разработчик,110000,250000,RUR,True,"Кострома, Лесная улица, 11","Python, SQL, PostgreSQL"
+116223187,Python Developer,,,,,,"Python, ООП, SQL, PostgreSQL, MongoDB, FastAPI, Flask, Kafka, HTTP, HTTPS, gRPC, SQLAlchemy"
+118757241,Инженер-разработчик Python,,,,,"Москва, улица Земляной Вал, 50А","Python, PostgreSQL, Flask"
+119419879,Backend-разработчик (Python),,,,,"Москва, Электрозаводская улица, вл27","Python, PostgreSQL, Django Rest Framework, FastAPI, ORM"
+117567551,Разработчик Python (Junior+),,,,,"Москва, Вознесенский переулок, 22",
+119401020,Разработчик SQL/Python,,,,,"Ульяновск, Московское шоссе, 6","Python, SQL, PostgreSQL, FastAPI, Gitlab, Apache Airflow, Оптимизация кода"
+117582493,Python developer / Разработчик Python (KORNFELD),,,,,,"Linux, Python, Bash, TCP/IP, OSI"
+118122298,SDET Python (OSMP),,,,,"Olympia Park Business Center, Bldg. 3 or 2, 39A, Leningradskoe Shosse, Moscow, 125212, Russia","Python, Linux"
+117698753,Ведущий бэк-енд разработчик/Python developer,,,,,"Москва, улица Годовикова, 9с17",Python
+116162916,Python developer / Разработчик Python (KORNFELD),,,,,,"Linux, Python, Bash, TCP/IP, модель OSI"
+106138278,Middle Python Developer,,,,,"Москва, Пресненская набережная, 6 стр.2, Башня Империя","Python, pandas, Docker"
+119879988,Python Developer (Checkout team),,,,,,
+119931412,Python developer,,,,,,
+119961808,Python разработчик (офис/гибрид),,,,,,"Python, SQL, Работа с базами данных, PostgreSQL, PyQt, SQLAlchemy, FastAPI, REST API, Debian, Ubuntu, Qt"
+119879147,Python Developer (Extranet Team),,,,,,"Python, Django Framework"
+119161831,Python-разработчик,150000,,RUR,False,"Москва, 4-я Магистральная улица","ООП, SQL, NoSQL, RabbitMQ, Nats, asyncio, pandas"
+118487814,Программист Python,175000,,RUR,True,,"Python, SQL, PostgreSQL"
+120038884,Преподаватель языка программирования Python для WEB-разработки,100000,,RUR,True,"Москва, Волгоградский проспект, 2","Работа с большим объемом информации, Python, Обучение и развитие, Организация учебного процесса, Преподавание, Проведение тестирований, Деловое общение, SQL, Проведение презентаций, MS PowerPoint, Деловая переписка, Умение принимать решения, Подготовка презентаций, Работа с базами данных"
+119633046,Разработчик на python,,,,,"Новоуральск, Садовая улица, 15Ак1","MySQL, Python, REST API, JavaScript, VueJS, Git, Django Framework"
+117582494,Python developer / Разработчик Python (KORNFELD),,,,,,"Linux, Python, Bash, TCP/IP, OSI"
+119927475,Python-разработчик,,,,,"Москва, Кутузовский проспект, 32","BIOS, BMC, UEFI, REST, gRPC, HTTP, Websocket, POSIX, Linux"
+119907070,Стажер ML/AI,,,,,,
+120083148,Инженер по автоматизации тестирования на Python / AQA Python (SDS),,,,,"Санкт-Петербург, Свердловская набережная, 44Б",
+119926347,Python-разработчик,250000,290000,RUR,False,,
+119093744,Python backend Developer,160000,,RUR,False,"Кемерово, бульвар имени Академика Л.С. Барбараша, 1","Python, Apache Kafka, PostgreSQL, MongoDB, NoSQL"
+119518779,Python Developer,200000,230000,RUR,False,,
+119495664,Python-разработчик,,,,,"Москва, улица Дмитрия Ульянова, 7А","Python, Linux, React, PostgreSQL, CI/CD, Nginx, Fast API, Bash"
+119753592,Senior Python developer,240000,290000,RUR,False,,"Python, FastAPI, SQL, ORM, Docker, Django"
+118718029,Senior Python developer (FastAPI),,,,,,"Python, PostgreSQL, FastAPI, Apache Kafka"
+115998908,Senior Python developer (FastAPI),,575000,RUR,True,"Москва, улица Правды, 26","Python, PySpark, Apache Airflow, Apache Kafka, Deltalake, Kubernetes, Dremio, DWH, OLAP, Data Platfrom"
+120076236,Преподаватель программирования на Python,,80000,RUR,True,"Сочи, Олимпийский проспект, 1",
+119610951,Ментор по разработке Python (Developer Python),42000,84000,RUR,False,,Python
+118847725,Python разработчик,,,,,"Казань, улица Островского, 98",
+117984995,Fullstack QA Engineer (Python),,,,,,"Allure TestOps, Python, Selenium, Pytest"
+115716390,Backend python developer,130000,,RUR,False,,"Python, asyncio, Selenium, Postman, Git, FastAPI, Парсинг данных"
+105133634,Разработчик Python,,240000,RUR,False,,"Python: Pandas; Requests, Scrapy, NumPy; SkiPy, Json, xlwt, xlrd, Pyspark;, Oracle DB и/или PostgreSQL и/или MySQL, full scan, TensorFlow, API (REST), pandas, Requests, Scrapy, Numpy, SciPy, Scikit-learn, JSON, PySpark, XGBoost, CatBoost, LightGBM, PyTorch, Hyperop, Optuna"
+118585386,"Back-end разработчик Python (middle, senior)",140000,200000,RUR,False,,
+119816398,Python-разработчик,,,,,,
+118847757,Python разработчик,,,,,"Иннополис, Университетская улица, 7",
+118950271,Python-разработчик,,,,,,
+119960520,QA Auto (python),,,,,,"Python, Pytest, QA, Тестирование"
+119638225,Разработчик на Python,,220000,RUR,True,,
+119551860,Senior Python Developer,,,,,"Санкт-Петербург, Большой проспект Петроградской стороны, 30",
+119507368,"Junior Backend разработчик (Python, Django, GraphQL)",35000,55000,RUR,False,"Волгоград, Козловская улица, 54","GraphQL, Python, Django Framework, PostgreSQL, Git, Linux, ООП"
+119471471,Python-developer,175000,,RUR,True,,"Python, PostgreSQL, Git, SQL"
+119787125,Python developer (senior),,,,,,"Python, SQL"
+119574103,DA с SQL и python(pyspark),,,,,,
+119689838,Python-разработчик,,,,,"Москва, Варшавское шоссе, 125","Python, Linux, REST API, Pytest, gRPC, pySerial"
+119445116,Python Developer,,,,,"Москва, улица Бутырский Вал, 22с3","SQL, Python, REST API, Flask, Django Framework, FastAPI"
+115211408,Python developer,150000,250000,RUR,True,"Казань, Московская улица, 24","Python, PostgreSQL, SQL, ООП, Git, Unit Testing, Redis"
+118074934,SDET Python (MAC),,,,,,"Python, ООП, Unix"
+119769156,Python Backend-разработчик (Middle/Senior),150000,,RUR,False,"Пермь, Стахановская улица, 54Ж","Python, Git, CI/CD, SOLID, ООП, PostgreSQL, Redis, MongoDB, Docker"
+117401614,Senior python developer,250000,,RUR,True,,"Python, SQL, PostgreSQL"
+119431802,Python Developer (Cloud),,,,,"Москва, Авиамоторная улица, 10к2","Linux, Python, SQL, Kubernetes, Docker, Backend, Информационная безопасность, Django Framework, FastAPI"
+118814710,Python developer (Senior),,,,,,"Python, PostgreSQL, Django Framework"
+119336310,"Разработчик (Python,Airflow, Spark)",,,,,,"Python, Apache Airflow, Apache Spark, Apache Kafka, s3, Atlassian Confluence, SQL"
+113705714,Senior Python-developer,270000,,RUR,True,"Санкт-Петербург, Малая Митрофаньевская улица, 1","Python, SQL, PostgreSQL"
+119372768,Разработчик Python,,,,,,"SQL, Python, ETL, Hadoop, Spark, Airlow, Informatica Data Qualit"
+119323345,Python-разработчик,250000,,RUR,False,,Python
+119591685,Python-разработчик,,150000,RUR,True,"Москва, улица Бутлерова, 17","MySQL, MongoDB, JavaScript, Python, Redis, CI/CD"
+117567056,Python-разработчик (middle),,,,,"Москва, Вознесенский переулок, 22","Django Framework, Python, Celery, PostgreSQL, MongoDB, FastAPI"
+118466237,Разработчик Python/Django (middle/senior),,,,,,"Python, Linux, Django Framework, Django Rest Framework, REST API, PostgreSQL, Docker"
+119549727,Senior Python Developer Backend,120000,200000,RUR,False,,"B2B, Python, Git, Flask"
+119709489,Software engineer intern,,,,,,"Python, Грамотная речь, Английский язык, C++, Mathematical Analysis, Mathematical Statistics, Алгоритмы и структуры данных, Разработка ПО"
+119330912,Intern QA automation (Python) / Стажер (Tatlin Backup),,,,,"Санкт-Петербург, Свердловская набережная, 44Б","Python, Pytest, Linux, Bash, Git"
+119326258,Backend Developer (Python),,,,,"Москва, 1-й Автозаводский проезд, 4к1","Python, Django Framework, FastAPI, PostgreSQL"
+119250634,Senior Python developer,,,,,,"Python, Django Framework, FastAPI"
+117251381,Senior Python-developer,270000,,RUR,True,,"Python, SQL, PostgreSQL"
+119404253,Стажер SDET/QA,,,,,"Москва, Волочаевская улица, 5/1","ООП, Linux, Python"
+119489110,Программист Python (backend),140000,160000,RUR,False,,
+118333259,Ментор по разработке Python (Developer Python),42000,84000,RUR,False,,"Java, Python"
+110338871,Программист Backend Python (ML) + GO,50000,100000,RUR,False,"Томск, улица Пушкина, 75","Git, MSSQL, REST, JSON-RPC, Golang, Machine Learning, ML, Python"
+115509122,Python Backend developer / Инженер-программист (Testing Tools),,,,,,"Python, Linux, Django Framework, Docker, RabbitMQ, Jenkins, asyncio"
+119551203,Senior Python developer,300000,350000,RUR,False,,"aiohttp, FastAPI, Flask, ORM, RabbitMQ, Kafka, Kubernetes, Python, PostgreSQL, MySQL, MS SQL, Unit Testing, SOLID, CI/CD, TeamCity, Jenkins, Airflow, Dagster"
+115444661,Автотестировщик (Python),110000,168000,RUR,True,,"Python, Selenium"
+119451331,Python-разработчик,,,,,"Москва, улица Обручева, 36к1",
+119362977,Python Auto QA инженер,,,,,"Новосибирск, улица Максима Горького, 24",
+119384721,Python разработчик,,,,,"Санкт-Петербург, площадь Победы, 2",
+118297229,Python Developer (KATA),,,,,,"Python, Linux, Pytest"
+119603259,Преподаватель языка программирования Python,,130000,RUR,True,"Москва, проспект Мира, 42","Python, Преподавание, ЕГЭ, ОГЭ, Математика, Программирование, C++, С#"
+119230457,Автор курсов по Python разработке,100000,150000,RUR,True,,"Python, Наставничество, Наполнение контентом"
+119325861,"Преподаватель программирования (Roblox, Python,Scratch,C+, Графический дизайн)",,,,,"Санкт-Петербург, проспект Энгельса, 154","Обучение, Работа в команде, Обучение и развитие, Работа с людьми, Организация учебного процесса, Программирование, Python, Roblox"
+119991751,AI Engineer (инженер по ИИ) data science (дата-сайентист),100000,200000,RUR,False,,"Git, Python, PostgreSQL, LangChain, LangFlow, LLM, RAG, NLP"
+120311810,Наставник по программированию Python,127500,,RUR,True,"Елабужский район, Особая экономическая зона Алабуга",
+120319816,Senior Python developer (SDET),,,,,,"Python, Docker, Docker-compose, Linux, K8s, TCP/IP, Kubernetes"
+119045536,Backend-разработчик/python (middle/senior) Ижевск,,,,,,"Python, REST API, Agile, SQL, NoSQL, Алгоритмы и структуры данных, Стратегия тестирования, MySQL"
+119670063,Project CTO / Python-разработчик (GPT-платформа),,,,,,"Python, Django Framework, Django Rest Framework, FastAPI, PostgreSQL, Docker, Git, REST API, Redis, Linux, CI/CD, API, JSON API, ИТ-архитектура"
+116910628,ML Engineer,,,,,"Санкт-Петербург, площадь Карла Фаберже, 8","Python, MLflow, PostgreSQL, Impala, HDFS, NLP, TensorFlow, Keras, PyTorch, Hugging Face, DVC, Git"
+120231061,AI / ML developer,,,,,"Санкт-Петербург, Заневский проспект, 30к2",
+117112545,Computer Vision Researcher,,,,,,"Python, PyTorch, Machine Learning, Deep Learning, OpenCV, Алгоритмы, Resnet, Mobilenet, U-net, Yolo, Deeplab, Git, Computer Vision"
+119755801,Технический Лидер (Python),450000,500000,RUR,False,,"Python, KVM, Architectural decision records, Architectural Decision Records, UML, C4"
+120347674,Преподаватель-программист / ведущий YouTube-канала по Python,,,,,,"Python, методология образования, разработка курсов, образовательный контент, YouTube обучение, структурированный материал, педагогический дизайн, скриптрайтинг, практические задания, онлайн-образование, EdTech, адаптация контента, чек-листы, локализация контента, обучение для начинающих"
+111235934,Senior Python Developer in Test / Инженер-программист (KORNFELD),,,,,,"Python, asyncio, SQLAlchemy, Pytest, Тестирование, Linux"
+120338330,Fullstack-разработчик (Python и React.JS),,350000,RUR,False,,"Python, JavaScript, TypeScript, React, Веб-программирование, Git, PostgreSQL, FastAPI, Адаптивная верстка, Sass"
+119884382,"Python QA Automation - WEB, Selenium (Israel)",3500,,USD,False,Тель-Авив,"Python, Linux, QA Automation, Docker, Selenium, API, Webui"
+120274159,Middle Backend Developer Python,,,,,,"Django Framework, Python, FastAPI, Celery, Selenium"
+119411185,Программист Python (Middle/Senior),,,,,,"Python, Flask, FastAPI, SQL, PostgreSQL, MongoDB, Git, RabbitMQ, Apache Kafka, Docker, Kubernetes, CI/CD"
+120245900,Старший программист-разработчик (Python/Django) / Senior back-end developer,250000,,RUR,False,"Москва, 1-й Кожевнический переулок, 6с1","Python, FastAPI, Django Framework"
+119855744,Fullstack разработчик C++/Python,,250000,RUR,False,"Москва, Калужско-Рижская линия",
+119599095,C++ developer (ML/speech recognition),,,,,,"machine learning, Python, C++, PyTorch, Linux, Bash, Docker, Git"
+119787843,ML Engineer (LLM),,5000,USD,False,,"Python, Time Series Analysis, Big Data"
+119787843,ML Engineer (LLM),,5000,USD,False,,"Python, Time Series Analysis, Big Data"
+119899384,Senior Python Developer (E-com),,,,,,"Python, PostgreSQL, Git, Redis, Django Framework, Swagger, Solr, Clickhouse, RabbitMQ, Docker, Ansible, Golang"
+120246173,Программист-разработчик (Python/Django) / Middle back-end developer,100000,,RUR,False,"Москва, 1-й Кожевнический переулок, 6с1","PostgreSQL, Python, Рефакторинг кода, Docker, VueJS"
+119755800,Технический Лидер (Python),450000,500000,RUR,False,,"Python, KVM, Architectural decision records, Architectural Decision Records, UML, C4"
+120087313,ГИС - инженер (Тюмень | офис),,,,,"Тюмень, улица Мельникайте, 112с3",
+119960482,Data Engineer,150000,150000,RUR,False,"Москва, Замоскворецкая линия, метро Белорусская","Статистический анализ, Python, Clickhouse, SQL, Разработка технических заданий, Системная интеграция"
+118570158,Python-разработчик,,,,,"Москва, улица Грузинский Вал, 7","Python, PostgreSQL, Redis"
+119702304,QA Automation Engineer (Python),150000,,RUR,False,"Санкт-Петербург, Чкаловский проспект, 50","Git, Android, Linux, Android SDK, SQL, Qt, QA, Python"
+120237148,Senior Python Developer,,,,,,
+118640768,Алгоритмист - разработчик (Applied ML),,,,,"Москва, Малая Семёновская улица, 9с3","Разработка алгоритмов, ML, Python, PyTorch, TensorFlow, FastAPI, Django, Linux, CI/CD, OpenCV, GFS, WRF"
+119349241,"ML-разработчик (LLM, middle)",,,,,"Москва, Дербеневская набережная, 7с22","ML, Python"
+119561130,DWH developer,,,,,,"ETL, SQL, Python, DWH, Keitaro, FBtool, Affise"
+119659031,QA auto (Python)/Автотестировщик,160000,240000,RUR,False,"Королёв, улица Фрунзе, 1А","Python, Selenium, Allure, SQL, YouTrack, TeamCity, Atlassian Confluence"
+120293135,Senior Python developer/ Ведущий разработчик,,,,,,"Python, PostgreSQL, FastAPI, MongoDB, NoSQL, Django Rest Framework, Pytest, REST API, Celery, Apache Airflow"
+120229368,Python-разработчик (Middle/Senior),,,,,,"Python, Django Framework, Pytest, PostgreSQL"
+120232236,Middle Python-разработчик (IoT/Embedded),,,,,,"Python, C/C++, SQL"
+120321027,Python-разработчик,,,,,"Москва, Огородный проезд, 16/1с5",
+120307928,Разработчик интеграционных решений (Python),,,,,,"Python, RabbitMQ, API, Linux, PostgreSQL"
+119415488,Старший разработчик Python,,,,,"Москва, Береговой проезд, 5Ак1","Python, FastAPI, SQLAlchemy, Pydantic, Python asyncio, GOF, SOLID, REST API, GraphQL, gRPC, AMQP, Apache Kafka, MQTT, ORACLE, PostgreSQL, MySQL, NoSQL, Gitlab, Git, Atlassian Jira, Atlassian Confluence, Docker, Docker-compose, Kubernetes, Linux"
+119244063,Full-stack web-разработчик (Python),,,,,"Москва, Ленинградский проспект, 15с1","Python, Git, PostgreSQL, Django Framework, Linux"
+119246509,Middle/Senior Python разработчик,,,,,,"Python, PostgreSQL, Linux, Gitlab, Django Framework, Tornado, FreeBSD, GitLab CI"
+118796269,Senior Developer (Python),,,,,"Москва, Авиамоторная улица, 10к2","Python, FastAPI, Kafka, GraphQL, ELK, Docker, Linux, Apache Kafka, Elasticsearch, ООП, Асинхронное программирование"
+120096325,"Senior Python-разработчик (Flask, FastApi)",370000,,RUR,False,,"Python, Flask, Yandex Cloud, MySQL, Redis, Облачные сервисы, Разработка архитектуры, FastAPI, SQLAlchemy, Apache Airflow, Docker"
+119709541,Senior python-разработчик (Django),,,,,,"Python, Git, Django Framework, Redis, HTTP, HTML, JavaScript, HTML5, MongoDB, PostgreSQL, REST API, Backend, JSON API, Celery, Веб-программирование"
+120334211,Разработчик бэкенда на Python и Go в Вертикали,,,,,,"Python, Golang, Go"
+119807848,Python + Go разработчик,,,,,,"Python, Golang"
+119951370,Senior Python (Django) Developer,,400000,RUR,True,"Москва, Хорошёвское шоссе","Python, Django Rest Framework, Django Framework, MongoDB, RabbitMQ, Celery, Redis, Grafana, Prometheus"
+120208949,SDET (Python),,,,,,"Automation testing, Python, Linux, Телекоммуникации, SDET"
+117637553,Senior Python-разработчик,,,,,"Москва, Калужско-Рижская линия, метро Калужская","Python, Git, Linux, Flask, Широкий кругозор, Дружелюбие, Креативность, Самокритичность, Позитивное мышление, Работа в условиях многозадачности, FastAPI"
+118297577,Data Infra Engineer,,,,,,
+120245272,SDET Python (Content Filtering Research),,,,,,
+119504805,"Разработчик Python, направление разработки аппаратных проектов",,,,,,"IT, Разработка склада, Python"
+119310113,Middle Разработчик Python и/или C++ (системная разработка модулей для беспилотного транспорта),,,,,"Москва, 3-я Рыбинская улица, 18с22","Python, C++, Linux, Нейронные сети, Docker, Многопоточные приложения, Мультипроцессорные приложения"
+116376738,Data scientist,,,,,Подгорица,
+120293444,Ведущий Python разработчик (Termidesk),,,,,"Москва, Ленинский проспект, 119А","Python, Linux, FastAPI, JSON"
+119841783,"Backend-разработчик/python (middle/senior), Воткинск",,,,,деревня Верхне-Позимь,"Python, REST API, Agile, SQL, NoSQL, Алгоритмы и структуры данных, Стратегия тестирования, MySQL"
+120238673,Разработчик бэкенда на Python и Go в Вертикали,,,,,,"Python, Golang, Go"
+119294297,Python-разработчик,,,,,,
+119506955,"Специалист по машинному обучению ML Engineer, Fullstack-разработчик",150000,,RUR,False,,"Python, VueJS, PHP, Математическая статистика, PyTorch"
+120274872,"Разработчик баз данных (Python, PostgreSQL, MongoDB)",,,,,"Санкт-Петербург, Выборгская набережная, 45Е","SQL, PostgreSQL, MongoDB"
+120315289,Tech lead Python developer,,,,,,"Python, asyncio, ORM, FastAPI, PSQL, Redis, Apache Cassandra, SQLAlchemy, Pydantic, websockets"
+119642153,Senior Python-разработчик,,,,,"Москва, набережная Академика Туполева, 15к22","Python, FastAPI, PostgreSQL, Agile, Flask, Greenplum, Clickhouse, Apache Airflow, pandas, Apache Superset, Jenkins, Docker, k8s, Git, Django, NoSQL"
+119872470,TeamLead (Python) команды разработки,,,,,"Москва, Новодмитровская улица, 2к2","Python, Управление командой"
+120208294,Ведущий разработчик искусственного интеллекта/python-backend,,,,,,Python
+120265013,Senior Python back-end Developer,,,,,Москва,
+113146125,Специалист по автоматизированному тестированию\Automation QA Engineer (Python),,,,,"Москва, проспект Вернадского, 41","Python, Pytest, gatling, QA, Тестирование, Selenium, Автоматизированное тестирование, API"
+119624423,Data Scientist (Middle+/Senior),,,,,"Москва, Западный административный округ, Можайский район, Инновационный центр Сколково, Большой бульвар, 30с1","TensorFlow, PyTorch, NLP, Python, SQL, CV"
+119952057,Senior Python (Django),,400000,RUR,False,"Москва, Хорошёвское шоссе","RabbitMQ, Memcached, Redis, CI/CD, Django Rest Framework, Django Framework, GitLab CI, PostgreSQL"
+120230304,"Fullstack QA engineer (Python), финтех",,,,,,"SQL, PostgreSQL, Базы данных, REST, API, Postman, Swagger, BPMN, SOAP, Atlassian Jira, Atlassian Confluence, Python, Java, Git"
+120230394,QA Engineer FullStack (Python),,,,,,
+120276604,Tech Lead ML-команды/Python разработчик,,,,,"Санкт-Петербург, Малый проспект Васильевского острова, 43к2",
+120193931,Tech Lead (Python),,,,,,"Linux, Nginx, Docker, Asyncio, aiohttp, Squid, Сетевые технологии, Информационная безопасность, Python, Асинхронное программирование, Clickhouse, ETCD"
+120229878,Разработчик бэкенда на Python и Go в Вертикали,,,,,,"Python, Golang, Go"
+118973903,Python-разработчик (Senior/Lead),,,,,,"Python, PostgreSQL, FastAPI, Redis, Apache Kafka, SQLAlchemy, Django"
+118973909,Python-разработчик (Senior/Lead),,,,,,"Python, PostgreSQL, FastAPI, Redis, Apache Kafka, SQLAlchemy, Django"
+118973906,Python-разработчик (Senior/Lead),,,,,,"Python, PostgreSQL, FastAPI, Redis, Apache Kafka, SQLAlchemy, Django"
+120210942,Data Scientist,,,,,,"Python, SQL, TensorFlow, PyTorch, Keras, PySpark, Ad Hoc Analysis"
+117271018,Senior Python Developer,5,,USD,False,,"Python, Flask, Apache Kafka, Pytest, Django Framework"
+119609129,Senior Python Developer,,,,,"Москва, Ленинградский проспект, 39с79","Python, Django Framework"
+116596804,Senior Python Developer,,,,,"Москва, Долгопрудненское шоссе, 3",
+120161404,Middle ML-инженер (RuBackup),,,,,"Москва, Огородный проезд, 16/1с5","ORACLE, PostgreSQL, Python, pandas, SQL, Grafana, Zabbix"
+119362458,IDP-разработчик,,,,,"Новосибирск, улица Кутателадзе, 4г","IDP, LLM, OpenAI API, Python, Django, AWS, Azure, OCR"
+120125347,Middle/Senior Python Разработчик (OpenStack),,,,,,"Python, Linux, VMware, OpenStack"
+120119486,Разработчик Python AI,,,,,"Москва, Поклонная улица, 3",
+120111157,Middle+ Python разработчик (Platform V Kintsugi),,,,,,
+120077867,"Python-разработчик, Middle (Middle+)",,,,,,"Python, REST API, SQL, Unix, Git, CI/CD, Apache Airflow, Elasticsearch"
+118992096,Python Automation Engineer,,,,,,
+120085466,Ведущий разработчик Python,,,,,,"Python, Django Framework, pandas, Apache Airflow, ETL, Clickhouse"
+115703131,Инженер данных (Data engineer),210000,210000,RUR,False,"Москва, 1-й Красногвардейский проезд, 15","Python, SQL, REST API, Анализ данных"
+119071502,SDET Python (KasperskyOS Mobile),,,,,"Москва, Ленинградское шоссе, 39Ас2","Python, Linux, Pytest"
+108362905,SDET Python (KATA),,,,,"Москва, Ленинградское шоссе, 39Ас1","Python, Linux, CI/CD"
+120020827,"Fullstack-разработчик (Python, Django, JavaScript)",,,,,,"Python, Django Framework, Django Rest Framework, JavaScript"
+120031267,Сетевой инженер / Python-разработчик,,,,,,"Python, Django Framework"
+120020254,Python разработчик (Compute),,,,,"Санкт-Петербург, Московский район, Цветочная улица, 19","Python, Git, Linux, Английский язык, OpenStack"
+120077064,Квантовый разработчик (Quantitative Developer),,,,,,
+120044992,Разработчик Python / Go,,,,,,"Python, Golang, gRPC, REST API, CI/CD, Linux, oVirt, OpenStack"
+115741929,R&D Engineer/Researcher (Разработчик-исследователь),,,,,,"Linux, Python, NoSQL, REST-API, TLS, FTP, SMB, HTTP, R&D, исследования в разработке ПО, Clickhouse, C/C++, OSI, FIrewall"
+119595856,Старший Python разработчик / FastAPI,200000,200000,RUR,False,"Краснодар, улица Стасова, 174/3","Python, HTTP, Bash, SQL, Веб-программирование, REST API, FastAPI, SQLAlchemy, Apache Kafka, Redis, gRPC"
+119959831,Сетевой инженер / Python-разработчик,,,,,,"Python, Django Framework"
+119961398,"ML Engineer (""Search"")",,,,,"Санкт-Петербург, улица Савушкина, 126Б","SQL, Python, ML"
+118770431,Python разработчик (Middle+ / Senior),,,,,,"Python, Django Framework, iohttp, RabbitMQ, PostgreSQL, FastAPI, SQLAlchemy"
+119871912,Разработчик Python + ML,,,,,,
+118718432,Разработчик Python (ML),,,,,,
+119905197,Senior Python Developer (Центр Искусственного интеллекта),,,,,,
+119855986,Инженер по нагрузочному тестированию Python,,,,,,"SQL, Нагрузочное тестирование, Linux, Docker, Locust, Python"
+118773795,"Разработчик телефонии (Python, FreeSWITCH)",,,,,,"Python, FreeSWITCH, Garm"
+119801658,Data Automation Developer,,,,,"Санкт-Петербург, Каменноостровский проспект, 26-28","Аналитическое мышление, Бизнес-моделирование, Внимательность, Восприимчивость к критике, Внимание к деталям, Гибкость"
+119818349,Python-разработчик (банковский проект),,160000,RUR,False,,"Python, SQL, OpenShift, Git, Docker, Jenkins, Kubernetes, Nginx, Atlassian Jira, PostgreSQL, Clickhouse, Celery, OAuth"
+119908348,AI/ML разработчик,,,,,"Тюмень, Суходольская улица, 16",
+119848179,AI/ML разработчик,,,,,"Москва, Кутузовский проспект, 17","Python, API, Redis, FastAPI, Docker"
+119820649,Python - разработчик,,,,,,
+119837743,Python Junior / Middle AQA Engineer (МТС Веб Сервисы),,,,,,"Python, Pytest, Linux, Gitlab, Allure"
+119829493,ML Разработчик,100000,,RUR,False,,Python
+118980254,Senior python разработчик,,,,,"Москва, улица Годовикова, 9с17","Python, FastAPI, PostgreSQL, Docker, Kubernetes"
+119808231,Python-разработчик (Senior),230000,300000,RUR,False,,"Python, Apache Airflow, FastAPI, Docker, Kubernetes, CI/CD, Django Framework, Flask"
+119865008,Python + Go разработчик,,,,,,
+119883601,Python разработчик Middle+,,,,,"Москва, 3-я Рыбинская улица, 17","Python, Linux, REST API"
+119759884,Lead Backend Developer (Python),400000,,RUR,True,,"Python, Clickhouse, pandas, Numpy, FastAPI, Blockchain, Crypto"
+119879542,Fullstack QA engineer (Python),,,,,,
+119848155,Fullstack Python разработчик,,,,,"Москва, Садовническая улица, 82с2","Python, LLM, AI, Нейронные сети, Kanban, Git, SQL, API, Jupiter, Kubernetes, Docker, OpenAI, Langchain"
+119757827,Python-разработчик,,,,,,"Linux, Python, SQL"
+119785684,Middle+ / Senior Python Developer,,,,,"Москва, Новодмитровская улица, 2к1","Python, RDBMS, Django, Unix/Linux, Git, Docker, Celery, RabbitMQ"
+119884054,Data Engineer,,,,,,"Python, SQL, Apache Airflow, Clickhouse, Linux"
+119789491,Senior Python Backend разработчик,300000,500000,RUR,False,,"FastAPI, SQLAlchemy, PostgreSQL, Docker-compose, GitLab CI, kafka, RabbitMQ"
+119324861,Tech lead Python developer,400000,600000,RUR,False,,"Python, Kubernetes, Linux, observability, Kafka"
+119781296,Python разработчик (Middle+ / Senior) на проекты КД Max,,,,,,"Python, FastAPI, PostgreSQL, Celery, Gitlab"
+119759883,Lead Backend Developer (Python),400000,,RUR,True,,"Python, Clickhouse, pandas, Numpy, FastAPI"
+119786665,Senior Python Developer,,,,,,
+119881446,"Fullstack-разработчик (Python, React)",,,,,"Москва, Оружейный переулок, 41","Python, FastAPI, PostgreSQL, React"
+119766805,Python-разработчик (Dash) для аналитических решений,,,,,,"ETL, ELT, SQL, Python, Dash"
+118914735,Python Senior,,,,,"Москва, Хорошёвское шоссе","Python, MongoDB, PostgreSQL, NoSQL, SAGA GIS, DDD, EDA, FastAPI, SOLID, Redis"
+119870023,Auto QA Engineer (Python),,,,,,
+119024829,Senior Python Developer /Cеньор Питон Разработчик,,,,,,"Python, PostgreSQL, Django Framework, SQL, Английский язык"
+118312081,Team Lead (Python)/Tech Lead (Python),,,,,,
+119689705,Senior Python Developer,,,,,,"Python, ООП, SQL, Базы данных, Django, PostgreSQL, MySQL, NoSQL, ORM, FastAPI"
+119689435,Senior Python Developer,,,,,,"Python, ООП, SQL, Базы данных, Django, PostgreSQL, Django Rest Framework, VueJS, HTTP, JSON, MongoDB, Redis"
+119834040,MLOps Engineer в NLP команду,,,,,,
+119647385,Data Scientist (Middle),,,,,,"Python, Алгоритмы и структуры данных, Визуализация данных, MLflow, Математическая статистика, Spark"
+118754927,"Python-разработчик в AI VK, Москва",,,,,,
+119593198,Middle-разработчик LLM-агентов (Python),,400000,RUR,True,,
+119622782,Python разработчик (Middle+ / Senior),,,,,,"Python, Django Framework, iohttp, RabbitMQ, PostgreSQL, FastAPI, SQLAlchemy"
+118616095,Senior Python Developer/ Старший Python разработчик,,,,,,"Python, Django Framework, Celery, RabbitMQ"
+116495541,Python разработчик / Django (Wagtail) / Middle,140000,180000,RUR,False,"Краснодар, улица Стасова, 174/3","Python, Django Framework, HTTP, SQL, Веб-программирование, REST API, FastAPI"
+118585818,"Full-stack разработчик Python\React (middle, senior)",140000,200000,RUR,False,,
+119624539,DevOps-инженер/Python-разработчик,,,,,"Москва, Ленинградский проспект, 68с7","Python, SCAPI, Bash, Makefile, QEMU, network interfaces, JSON, regexp/awk/sed, Docker/Podman, HTTP/WEB, Jenkins, Git, Groovy, UART, telnet, SSH"
+119609073,Junior Data Scientist (A/B-testing),,,,,,
+119622530,Python-разработчик,,,,,,
+119611274,Аналитик данных CausalML / ML-Engineer (Data Science),,,,,"Москва, 3-й проезд Марьиной Рощи","CausalML, ML, Python, XGBoost, Scikit-learn, Causal Inference, Reinforcement learning, MLOps, Kubernetes, Causal learning"
+114729252,SDET Python (Container Security),,,,,"Olympia Park Business Center, Bldg. 3 or 2, 39A, Leningradskoe Shosse, Moscow, 125212, Russia","Python, Linux, Kubernetes"
+115509121,Python Backend developer / Инженер-программист (Testing Tools),,,,,,"Python, Linux, Django Framework, Docker, RabbitMQ, Jenkins, asyncio"
+115982309,Senior Python developer,,,,,,
+119499643,Backend Разработчик (Python),,,,,"Москва, Огородный проезд, 16/1с2","SQL, API, PostgreSQL, Python, Kafka, ORM, MySQL, Git, backend"
+119650833,Senior Python developer (Machine Learning),,,,,,
+119592578,QA automation (Python),,,,,,"Python, Selenium"
+119562099,Senior-Middle ML Python разработчик в стартап,300000,,RUR,False,,"Python, PyTorch, FastAPI, Машинное обучение"
+119481924,Python-разработчик,,,,,,
+119480442,Аналитик - разработчик (Python),,,,,,
+117571552,Python разработчик AI-агентов,,,,,,
+119677021,Ведущий разработчик Fullstack (python\django),,,,,,"Python, Django Rest Framework, React, CI/CD, GitLab CI, Pytest, СУБД"
+118603663,"ML Engineer (""Search"")",,,,,"Москва, Рочдельская улица, 15с13","SQL, Python, ML"
+117529005,Python разработчик (Platform V Kintsugi),,,,,,
+119582517,DevOps-инженер (Python stack),,,,,"Санкт-Петербург, Малоохтинский проспект, 64","Python, Linux, Kubernetes, CI/CD, Docker-compose, Docker, ORACLE, Nginx, Yandex Cloud, AWS, Terraform, Ansible, DevSecOps, DevOps, Ubuntu, Debian"
+119528155,Tech Lead/Senior developer Python (Технический лидер/Ведущий разработчик Python),,,,,,"Python, Elasticsearch, Celery, Django, FastAPI, MongoDB, PostgreSQL"
+107229174,Python-разработчик,,,,,,"Python, GitHub"
+115509124,Principal Python Backend developer / Ведущий Инженер-программист (Testing Tools),,,,,,"Python, Linux, Django Framework, Docker, RabbitMQ, Jenkins, asyncio"
+119579947,Senior Python-разработчик,,,,,,
+117148689,Senior Python разработчик,200000,320000,RUR,True,,"SQL, Apache Kafka, RabbitMQ, Linux, Git, GitHub, Kubernetes, Python, REST API, Redis, Django Rest Framework, FastAPI, Celery, Django Framework, PostgreSQL, Оптимизация кода"
+115696833,Senior Python-разработчик,,,,,,"Python, Django Framework, PostgreSQL, Linux, SQAlchemy"
+119327603,Node.js / Python Backend разработчик,,80000,RUR,False,,"MongoDB, Node.js, Elasticsearch, PHP, Vue, web-sockets, Nuxt"
+118497582,Python-разработчик,,,,,,
+119430065,Python разработчик (DBaaS),,,,,"Санкт-Петербург, Московский район, Цветочная улица, 19","Python, Git, Linux, Английский язык, OpenStack"
+119399140,Разработчик Python + ML,,,,,,
+119403075,Python разработчик (DBaaS),,,,,"Москва, улица Берзарина, 36с3","Python, Git, Linux, Английский язык, OpenStack"
+114689631,Программист-разработчик,,,,,"Москва, Северный административный округ, улица 8 Марта, 10с1","цифровая обработка сигналов, C/C++, Python"
+119403744,Разработчик Python (обработка данных и высоконагруженные системы),100000,,RUR,False,,"Python, Docker, Kubernetes, Requests, Selenium, pandas, SQL"
+117205220,QA Automation (Python),,,,,"Москва, Варшавское шоссе, 9с1",
+119381804,Инженер-математик/программист Python,,,,,,
+119384886,Python разработчик модуля генерации файлов,,,,,,"Python, Pytest, TCP/IP"
+119492345,Fullstack-разработчик (Python / Vue.js),120000,150000,RUR,False,,"Python, VueJS, API, ORM, PostgreSQL, Django Rest Framework"
+119327584,Middle Full-Stack (React + Python) Developer,,,,,"Санкт-Петербург, Каменноостровский проспект, 26-28","Коммуникабельность, Креативность, Целеустремленность, Стратегическое мышление, Критическое мышление, Лидерские навыки"
+118211433,Старший разработчик (Python),,,,,"Москва, улица Двинцев, 12к1, м. Марьина Роща или м. Савеловская","Python, PostgreSQL, Kafka, FastAPI, SQLAlchemy, Alembic, Docker, Kubernetes, Gitlab, Jenkins"
+119314679,Python разработчик в нейропроекты браузера,,,,,,"Python, PostgreSQL, Linux, Алгоритмы и структуры данных, MongoDB"
+119360301,Senior Python разработчик,,,,,,"Python, FastAPI, Docker, SQL, Apache Kafka, Pytest, REST API, Gitlab"
+119356812,Разработчик на Python / Go в финансовую платформу,,,,,,
+116097634,AQA Engineer (Python),,,,,,"Python, AQA, QA, Selenium, XML, JSON, Jenkins, Jira"
+120236562,Junior Python-разработчик,70000,,RUR,False,,"Python, Git, SQL, FastAPI, Flask"
+120318103,Junior Python-developer (Python разработчик),70000,,RUR,False,,
+120297920,Python разработчик,100000,150000,RUR,False,,"Docker, Django Framework, Django-Admin, Django ORM, Python, Aiogram"
+119333320,Junior Python Developer,,,,,"Москва, улица Раевского, 4с1А",
+119780954,Junior Python Backend Developer,,120000,RUR,False,,"Python, Django Framework, Git"
+120280704,Junior Python разработчик чат-ботов,50000,,RUR,False,,"Python, SQL, Linux, REST API, GitHub"
+119732010,Разработчик Python (junior+/middle),80000,200000,RUR,False,,
+120288299,Python-разработчик/программист,,,,,,Python
+119610326,"Junior+/Middle Backend Developer (Python, FastAPI, PostgreSQL)",,,,,,"Python, FastAPI, SQL, PostgreSQL"
+120298695,Backend-разработчик,,120000,RUR,False,Москва,
+120238834,Python-разработчик (vControl),,,,,,"Python, Django Framework, Flask, SQLAlchemy, OpenStack, VMware, Citrix"
+120343968,Python backend developer,280000,300000,RUR,False,"Калининград, Советский проспект, 234","Python, SQL, FastAPI, Yandex Cloud"
+120296860,Golang/Python,,,,,,
+120332496,Python-разработчик,300000,,RUR,True,,
+119427499,Python-разработчик,100000,200000,RUR,False,,"Python, Git, SQLAlchemy, Redis, Docker, REST API, API, DevOps, CI/CD, PostgreSQL"
+120326842,Онлайн ассистент Python,40000,60000,RUR,True,,"Python, Искусственный интеллект, gpt"
+120072589,Python-разработчик,180000,250000,RUR,False,,"Python, JavaScript, TypeScript, Machine Learning, Stable Diffusion, ControlNet, Generative AI, Image generation, FastAPI, Flask, Django, REST API, WebSocket, PostgreSQL, RabbitMQ, Docker, Git, CI/CD"
+119925060,Backend-разработчик,150000,,RUR,False,,
+118870740,Аналитик данных (jun/mid),,,,,"Москва, Цветной бульвар, 25с3","SQL, Python, pandas, SciPy, Plotly, ETL, Metabase"
+119717371,Разработчик компьютерного зрения,100000,400000,RUR,False,,
+119931994,Backend-разработчик Python,,,,,"Москва, Большая Садовая улица, 5к1","Python, FastAPI, Flask, WebSocket, SQL, RabbitMQ, Apache Kafka, Git, SOLID, DRY, KISS, CI/CD, k8s, LLM, Celery, Grafana, Prometheus"
+120278698,Ведущий Python developer,,,,,,"Python, JavaScript, Kubernetes, Docker, Flask, FastAPI, PostgreSQL, Redis, RabbitMQ"
+120132782,Python-разработчик (Направление ML),,,,,"Москва, улица Правды, 8к13",
+119540088,Python Team Lead,250000,,RUR,False,"Москва, Смоленская площадь, 5","Python, Django Rest Framework, SQL, NoSQL, Celery, Docker, RabbitMQ, Управление командой"
+120306294,Python-разработчик,,,,,,
+119718124,Backend-разработчик senior (python),,,,,,"Git, PostgreSQL, Python, JavaScript, REST API, Разработка ПО, Docker"
+119421495,"Программист C#, С/С++,Python",,,,,,
+120311608,Python-разработчик,,,,,,
+120311606,Python-разработчик (Fastapi),,250000,RUR,False,"Москва, Пресненская набережная, 12",
+119492935,Software Developer Python,80000,250000,RUR,False,,"Python, PostgreSQL, Django Framework, Linux, СУБД, Git, AioHTTP, REST API, Clickhouse, FastAPI, Kafka"
+119393281,AI/ML Engineer / AI/ML Инженер / AI/ML Разработчик,2000,,USD,True,,
+119534527,Python- разработчик,120000,180000,RUR,True,Москва,"Python, Django, GIS, GeoDjango, Celery, CeleryBeat, PostGIS, Shapely, SQL, Code review, PostgreSQL, PgBouncer, Redis, GDAL, Mapnik, KML, ESRI Shapefile, GeoJSON, QGIS"
+120214183,Python-разработчик,150000,200000,RUR,False,"Челябинск, Троицкий тракт, 54","Python, GitHub, Linux, Pytest, Оптимизация кода, Рефакторинг кода, Алгоритмы и структуры данных, Gitlab, Poetry, MongoDB, NoSQL, SQL, REST API"
+120110005,Fullstack Developer (Python + React),,260000,RUR,False,,
+120112616,QA Automation/Python,,,,,,Python
+120229240,Ведущий бэкенд разработчик Python FastAPI,,,,,,
+120287338,Python Разработчик,,,,,,"Python, API, SQL, Postman"
+120263322,Python-разработчик,,,,,"Москва, Западный административный округ, Можайский район, Инновационный центр Сколково, Большой бульвар, 40",
+119822182,Senior Backend разработчик (Python),,,,,,"Python, RabbitMQ, Celery, Kafka, Docker, PostgreSQL, CI/CD, API, REST API"
+120185225,Junior Python-разработчик,90000,,RUR,False,,"JavaScript, React, VueJS"
+120039495,Программист python (custom node),130000,,RUR,False,,
+119966325,Разработчик торговых алгоритмов (Python),,,,,,Python
+119509944,Senior Data Scientist,4000,,USD,True,,"Python, Git, PostgreSQL, SQL, Английский язык, ML, Data Analysis"
+118425211,Automation QA (python),,,,,,
+119925102,Data Scientist,200000,,RUR,False,,
+120070975,Frontend-Backend разработчик (Python),90000,150000,RUR,True,"Воронеж, Загородная улица, 26","Python, Node.js, Linux, Git"
+120203006,Python-разработчик,70000,160000,RUR,False,,Python
+120191511,Senior Python Developer,,,,,,"Python, Django Rest Framework, Clickhouse, MySQL, Redis, RabbitMQ, Git, Unit Testing, Business Intelligence Systems, ETL"
+118195582,Backend-разработчик,,,,,,
+120333324,Backend-разработчик (Django + DRF),,,,,,
+118034819,Data Scientist (Computer Vision),,,,,,"Python, PyTorch, TensorFlow, ML, Computer Vision, Data Science, OpenCV"
+120236883,Python-разработчик,,,,,"Москва, Сокольническая линия, метро Румянцево",
+107412285,Middle/Senior Python разработчик,252000,316000,RUR,False,"Москва, Подсосенский переулок, 23с3","Python, SQL"
+119474616,Middle/Senior Python Developer,250000,300000,RUR,True,"Москва, Турчанинов переулок, 6с2",
+120262635,Ведущий разработчик Python,,,,,"Москва, Цветной бульвар, 2","Python, FastAPI, Tornado, MSSQL, PostgreSQL, Redis, MongoDB, GraphQL, RabbitMQ, RestApi, SOAP, HTTP, JSON, XML, WebServers, Gitlab, Git, DevOps"
+119439299,Python-Django разработчик / Архитектор (Middle),134600,,RUR,True,"Рязань, улица Маяковского, 1А","Python, Django Rest Framework, PostgreSQL, Docker, Git"
+120222482,Python-разработчик в команду Автоматизации сетевых сервисов,,,,,"Санкт-Петербург, Московский район, Цветочная улица, 19","Python, PostgreSQL, Flask, Golang, Linux, Docker, VLAN"
+117573920,Junior python developer (Backend/Full Stack),,,,,,
+116527308,Python-разработчик,,,,,,
+120224940,Backend-разработчик,,,,,,
+117946202,"Разработчик Python, Инструменты обучения",,,,,,"IT, Разработка поисковых технологий, C++, Python, Алгоритмы и структуры данных"
+119776269,Python-разработчик (AI/LLM),,,,,,"Python, Apache Kafka, PostgreSQL, REST API, Django Rest Framework, Docker, Gitlab"
+119609452,Python-разработчик Telegram,120000,160000,RUR,False,,"Python, telethon, aiogram, pandas, Инвайтер, Рассылки, Многопоточное программирование"
+120179611,"Python-разработчик (Selenium, автоматизация браузера)",,,,,,"Python, Selenium, MySQL, Celery, Node.js, Redis, DevOps"
+118313025,Python разработчик,160000,,RUR,False,,"Python, Django Framework, Django Rest Framework, MySQL, PostgreSQL, JavaScript, Git"
+120144559,Junior Python-разработчик,100000,,RUR,False,,"Python, SQL, PostgreSQL"
+120170897,Python-разработчик,60000,80000,RUR,False,,"Python, SQL, PostgreSQL, SQLAlchemy"
+119587590,Python-разработчик (ML/CV),120000,,RUR,True,"Москва, улица Кулакова, 20к1","Python, OpenCV, pandas, Numpy, SQL, TensorFlow, PyTorch, Scikit-learn, Linux, Git, Docker"
+120110174,Junior разработчик (Python/Go/JavaScript/Java/PHP),80000,,RUR,True,,"Python, SQL, NoSQL, GitHub, Linux, Алгоритмы и структуры данных, REST API, JavaScript, Java, Golang, PHP"
+120187506,Программист Python (API-интеграции с Битрикс24),40000,80000,RUR,True,"Благовещенск, Зейская улица, 173","Работа в команде, Python, Django Framework, HTML5, CSS3, Bootstrap, JavaScript, C++, Git, PostgreSQL, MySQL, SQL, Веб-программирование, FastAPI, REST API, GitHub, SQLAlchemy, Celery, JSON API, Анализ требований, HTTPX, API, Redis, Алгоритмы и структуры данных, Django Rest Framework"
+120126300,Программист-разработчик в Fintech-компанию,100000,150000,RUR,False,,"Git, JavaScript, SQL, Python, Работа с базами данных, Google Sheets, GoogleAppScript, PostgreSQL, Google Big Query, Google Cloud Platform, Clickhouse"
+119924907,Backend-Python Middle+ разработчик,200000,,RUR,False,"Москва, улица Куусинена, 5",
+118468340,Python Web-разработчик,180000,250000,RUR,False,,"Python, PostgreSQL, MySQL, ООП, SQL"
+107620766,Python Developer,,,,,"Москва, Центральный административный округ, Пресненский район, Московский международный деловой центр Москва-Сити","PostgreSQL, Python, Английский язык, Web Application Development, Docker, Разработка мобильных приложений, remote, Django, Git, Kafka, Базы данных"
+119772474,Python (Django) Backend разработчик (мидл),,,,,"Москва, Докучаев переулок, 3к1","Python, Django Framework, Celery, Docker, UnitTest, SQL"
+118083521,Старший разработчик Python/Senior Python Developer (хData),,,,,"Москва, Западный административный округ, район Солнцево, Киевское шоссе, 22-й километр, 4с1кБ",
+119989761,Web-разработчик,80000,150000,RUR,False,"Ярославль, улица Победы, 14А","Python, Django Framework, React, JavaScript"
+120171371,Python-разработчик,,,,,"Нижний Новгород, улица Литвинова, 74к30",
+120213218,Python/Golang разработчик (Confer),,,,,,"Python, PostgreSQL, Elasticsearch, Docker, RabbitMQ, Golang"
+119536682,Python разработчик,160000,200000,RUR,False,"Москва, Подсосенский переулок, 23с3",
+119955946,Junior Developer AI,,150000,RUR,False,"Москва, Кутузовский проспект, 36с23","Python, API, SQL"
+116628788,Backend Python разработчик в Облако Рег.ру,,,,,,
+120230620,Junior+/Middle Data Analyst (iGaming),,,,,,
+119319270,Python-разработчик (Middle/ Senior),,,,,"Санкт-Петербург, улица Савушкина, 83к3",
+119081352,Инженер-программист (программист/разработчик/developer Python),,,,,"Москва, Нагатинская улица, 16А",
+119633260,Senior Backend developer,350000,,RUR,False,Москва,"PostgreSQL, Python, GraphQL, FastAPI"
+120043884,"Аналитик (Python,SQL)",,,,,"Москва, м. Кузнецкий мост","Python, Аналитическое мышление, Системное мышление, Математическая статистика"
+119302455,Middle Python-разработчик,,,,,,"Python, Django Framework, FastAPI, Kubernetes, RabbitMQ"
+120110814,Python Developer,,,,,,
+120088109,Middle/Senior Python-разработчик,,,,,"Москва, Уланский переулок, 26",
+119923396,Tech lead Senior Python developer,6000,8000,USD,False,,"Python, Английский язык"
+120044628,Python разработчик бота в TG,70000,90000,RUR,False,,
+117721832,Старший Python-разработчик,,,,,,"Python, Pytest, Linux, MongoDB"
+119549607,Middle Backend разработчик (Python + Golang),230000,300000,RUR,True,"Москва, улица Ефремова, 10с1к4/5","Python, Linux, Flask, Git, PostgreSQL, REST, HTTP, WebSocket, FastAPI, Sanic, AIOHTTP, SQL, Bash, Docker, Golang, Django Framework"
+119926643,Middle/Senior Python developer,,,,,,"Python, FastAPI"
+120031342,Industrial Data Analyst (DSP & ML Engineer),,,,,"Новосибирск, Большевистская улица, 35",
+119836778,Специалист технической поддержки (python),100000,110000,RUR,False,"Москва, Поклонная улица, 3","Linux, Python, Bash, Service Desk, Docker"
+119864814,ML-разработчик,80000,150000,RUR,False,"Москва, Нагорный проезд, 7с1","Python, Нейронные сети, ML"
+119344449,Разработчик IT,,160000,RUR,True,"Москва, 1-й Магистральный тупик, 11с1",
+114576137,Python AI-developer,,,,,,
+120168568,Python-разработчик FastAPI,120000,,RUR,False,"Москва, Пресненская набережная, 12",FastAPI
+119311448,AI/ML Researcher,300000,,RUR,False,,
+120073451,Middle Python Разработчик,,150000,RUR,True,,"Python, Docker, GitLab CI, Jenkins, RabbitMQ, Apache Kafka, FastAPI, Django Framework, SQLAlchemy, PostgreSQL, MySQL, Английский язык"
+120119988,Backend-developer (Middle/Senior),,,,,"Москва, 3-я улица Ямского Поля, 2к24","Python, Linux, Git, Flask, SQLAlchemy"
+119951674,Python-разработчик (ML cервисы),,,,,"Москва, Бумажный проезд, 14с2",
+119942968,Junior Python разработчик (in-house),130000,,RUR,True,"Москва, Западный административный округ, Можайский район, Инновационный центр Сколково, улица Нобеля, 7","Python, Django Framework, PostgreSQL"
+119817960,Python-разработчик,,,,,,"FastAPI, Python, SQL, Docker"
+119754169,Программист-разработчик,,300000,RUR,False,"Новосибирск, Советский район, микрорайон Академгородок, проспект Академика Лаврентьева, 2/2",
+119397807,"Python-разработчик (Fullstack) ( FAST API, VUE) для fintech-стартапа",150000,,RUR,False,,"Python, VueJS, FastAPI, SQLAlchemy, Alembic, PostgreSQL, Docker, Git, Оптимизация кода"
+118770027,TechLead Python,,,,,"Москва, Уланский переулок, 26",
+119881652,"Младший Python-разработчик, Группа сетевой автоматизации",,,,,"Москва, Пресненская набережная, 10","ИТ, IT, Разработка платформы"
+119983892,Backend-разработчик (Python + Telegram API),500,1000,RUR,False,,"Python, Docker, Постановка задач разработчикам, API, Оптимизация кода"
+119874810,Разработчик python middle +/ FastAPI,,,,,"Москва, Киевская улица, 7к2","FastAPI, SQL, Python"
+119943969,Разработчик (Python / Go): сбор данных с маркетплейсов и онлайн-ритейл площадок,,,,,,
+119896387,Разработчик бэкенда на Python в маркетплейс,160000,,RUR,True,"Москва, улица Пресненский Вал, 27с8",
+116347834,Python разработчик,,,,,"Москва, Электрозаводская улица, вл27","Python, Flask, RabbitMQ, MongoDB, Git, API, Kafka, aiohttp"
+118989280,Python developer middle,,,,,,
+117681955,"Ведущий разработчик Python, ML платформа",,,,,,"Python, Kubernetes, Docker, MLflow, Разработка поисковых технологий, IT, Алгоритмы и структуры данных"
+119822593,Разработчик Python,,,,,"Москва, Валовая улица, 26",
+119859396,TeamLead (Go/Python Developer),,,,,,
+119170531,Scrapy Developer / Парсинг,,,,,,"Python, Scrapy, парсинг"
+119818820,Python разработчик,,,,,,"PostgreSQL, Python, Linux, SQLAlchemy, FastAPI, REST API, TCP, asyncio"
+119958237,Fullstack Python/React в команду AI,,,,,,
+119832133,Python разработчик бота в TG,70000,90000,RUR,False,,
+119908146,Senior Python разработчик на Django,,,,,,"Python, Pytest, PostgreSQL, Django Framework, Celery, Gitlab"
+117105423,Python developer (middle+),,,,,,
+119850123,Python Middle Разработчик,80000,120000,RUR,False,Москва,Python
+119846572,Backend Middle Developer / Python разработчик,,,,,,"Python, Django Framework, PostgreSQL, Redis, Работа в команде"
+119239019,Python developer (Senior),,350000,RUR,False,,
+117519659,TL Data Scientist,,459000,RUR,True,,"SQL, BigData, Hadoop, Machine Learning, Python, Data Science"
+119863834,Python Middle Разработчик,80000,130000,RUR,False,Санкт-Петербург,"Git, PostgreSQL, Django Framework, Docker"
+119818609,Junior Python-Разработчик,,,,,,
+117915138,Python разработчик,,,,,,
+119776634,Python-разработчик,,,,,,"Numpy, Python, SciPy, Qt, PostgreSQL"
+119839276,Senior Python-разработчик,,,,,,"SQL, PostgreSQL, MongoDB, Python, Agile"
+118602498,SDET python (NGFW),,,,,"Москва, Новодмитровская улица, 2Б","Linux, Python"
+117672927,Senior Python разработчик,,,,,"Москва, Зубовский бульвар, 4с1","Aiohtpp, Python, CI/CD, SQL, PostgreSQL, MongoDB, Spark, Docker"
+119631197,Middle fullstack (Python + React) разработчик,120000,150000,RUR,False,,"Python, PostgreSQL, React, API, ELK"
+119645015,Python-разработчик,,,,,"Москва, Рубцовская набережная, 3с1","Python, asyncIO, PostgreSQL, SQLAlchemy, litestar, FastAPI"
+119629772,Python-разработчик,,,,,,
+120117425,Стажер SDET-инженер по тестированию,,,,,,"Python, SDET, QA, Pytest, CI/CD, Linux"
+120046530,Python-разработчик,150000,200000,RUR,False,,"Python, MySQL, Git, Django Rest Framework"
+119685334,Python-разработчик (middle/ senior),,,,,,"Python, FastAPI, Sanic, pydantic, SQLAlchemy, PostgreSQL, Celery, Redis, RabbitMQ, Kafka, Docker, Kubernetes, Uvicorn, Gunicorn, Ngnix, Pytest"
+119630871,"Back-end Middle разработчик (Python, PostgreSQL, FastAPI)",,,,,"Ханты-Мансийск, улица Мира, 151","Python, PostgreSQL"
+120046511,Python-разработчик,150000,190000,RUR,False,,"Python, FastAPI, Django Framework, REST API, PostgreSQL, Docker, Kubernetes, Apache Kafka, Redis, Git, Linux, SQLAlchemy, RabbitMQ, Pytest, CI/CD"
+120024574,Python-разработчик,,,,,,"PostgreSQL, Python, MySQL"
+119560934,Программист Python,80000,120000,RUR,False,,"Python, HTTP, HTML, JavaScript, TypeScript"
+119323655,AQA и нагрузочное_Senior,,,,,,"Python, AQA, Postman, REST API, Kafka, Fiddler, Charles, Selenium, SQL, Java"
+119563785,Python-разработчик,,,,,,"Python, SQL, PostgreSQL, Linux, REST API, GitHub"
+119691755,Python-разработчик,50000,,RUR,True,,
+120037980,Python Разработчик,,,,,,"SQL, Python, Selenium, REST API, SOAP, Git, Apache Kafka, Elasticsearch, Prometheus, Grafana"
+119556569,Python-разработчик в VK Play,,,,,,"Python, Django Framework"
+119691909,"Full-stack разработчик (Python, Django, JavaScript) — Middle/Middle+",,,,,,"Python, Django, JavaScript, Linux, Docker, PosgreSQL, Git, Kafka"
+120019908,Python Developer,,,,,,PostgreSQL
+120102299,SDET python (NGFW),,,,,,"Linux, Python"
+119560935,Программист Python,80000,120000,RUR,False,,"Python, HTTP, HTML, JavaScript, TypeScript"
+117688403,"Frontend-разработчик (Python + Django, React)",145000,,RUR,False,"деревня Раздоры, Рублёво-Успенское шоссе, 1-й километр, 1А",
+119560936,Программист Python,80000,120000,RUR,False,,"Python, HTTP, HTML, JavaScript, TypeScript"
+119499355,Django Джанго разработчик,30000,100000,RUR,True,Москва,"Python, Django Framework"
+119454657,Python-разработчик,50000,100000,RUR,False,,
+119994625,Junior+/Middle Python Developer,1000,2000,RUR,False,,"Linux, Python, Git, Docker, REST API, FastAPI"
+117688404,"Frontend-разработчик (Python + Django, React)",145000,,RUR,False,"деревня Раздоры, Рублёво-Успенское шоссе, 1-й километр, 1А",
+118365073,Разработчик Python,,,,,,"Python, PostgreSQL, Django Framework, Git, SQL, Docker, Linux, Django, Redis, REST, HTML, CSS, ООП, Celery, Английский язык, Unit Testing, Backend, NoSQL, Nginx"
+120044296,Python-разработчик,,,,,,"Python, MySQL, FastAPI, Linux"
+119496503,Junior Python-разработчик,,,,,"Москва, проспект Академика Сахарова, 10","Python, PostgreSQL, Nginx, gunicorn, pandas"
+118191437,Python разработчик,,,,,"Москва, проспект Вернадского, 41",
+118260850,"Backend developer (Python, FastAPI)",,,,,"Москва, Большая Татарская улица, 9",
+120102313,SDET python (NGFW),,,,,,"Linux, Python"
+119832949,Python-разработчик,,250000,RUR,False,"Москва, улица Бутлерова, 17","Python, REST API, MySQL, PostgreSQL"
+120083360,Python-разработчик,,150000,RUR,True,,"Python, Стратегия тестирования, Оптимизация кода"
+119883642,Python / DevOps ассистент,,,,,"Москва, улица Марьинский Парк","Python, Linux, Docker, Django Rest Framework, Git, PHP, SQL, Оптимизация кода, Алгоритмы и структуры данных"
+119973388,Python разработчик в команду инфраструктуры,200000,,RUR,False,"Санкт-Петербург, Заставская улица, 22а","Python, MySQL, TDD, PostgreSQL"
+119329365,Python\Django backend-разработчик,,,,,"Москва, Западный административный округ, Можайский район, Инновационный центр Сколково, Большой бульвар, 30с1","Python, GitHub, Linux"
+120078003,Fullstack-разработчик,150000,200000,RUR,False,,"Git, SQL, Apache Kafka, JavaScript, HTML, Webflow, MongoDB, Postmypost"
+119339686,Python-разработчик,,,,,,"SQL, Python"
+119425949,Руководитель группы разработки Python / Tech Lead Python,350000,550000,RUR,False,,"Python, Управление проектами, Организаторские навыки, Управление командой, MySQL, Teamleading"
+119433071,Python-разработчик,90000,,RUR,True,"Санкт-Петербург, Малая Посадская улица, 20","Python, GitHub, PostgreSQL, ChatGPT, API, Bash, Django Framework, Django Rest Framework, FastAPI, Celery, Requests, SQL, Docker, pandas"
+120027379,Python Developer,200000,300000,RUR,False,,"Python, Node.js, Big Data, JavaScript"
+119344230,Python-разработчик,70000,90000,RUR,False,"Смоленск, улица Соболева, 7",Python
+119425950,Руководитель группы разработки Python / Tech Lead Python,350000,550000,RUR,False,,"Python, Управление проектами, Организаторские навыки, Управление командой, MySQL, Teamleading"
+120022467,Python Developer,,,,,"Москва, Ленинградский проспект, 72к4","Django, Postgresql, Redis, Clickhouse, Python, Django Framework"
+119782803,Middle Python Developer,,,,,"Москва, Подсосенский переулок, 5с1","Python, Django Framework"
+119357102,Backend-разработчик Python,,,,,,"Python, FastAPI, SQLAclhemy, HTTP, REST API, Alembic, Pydantic, MySQL, Linux, Docker"
+119944295,Python-разработчик,,,,,,"Python, SQLAlchemy, bs4, asyncio"
+120028054,Senior Developer (Python),250000,350000,RUR,False,,"Python, Node.js, Big Data, JavaScript"
+119304679,Python-разработчик (Junior+ /Middle),80000,120000,RUR,False,,Python
+119420918,Разработчик Golang/Python,,,,,,"Микросервисная архитектура, Python, Apache Airflow, ETL, PostgreSQL, Apache Kafka, Golang, Docker, Node.js"
+119731461,Python-разработчик,120000,250000,RUR,False,Санкт-Петербург,"Python, Django Rest Framework, FastAPI, Docker, Celery, Redis, Linux, PostgreSQL, MongoDB, Git"
+117653579,Python-разработчик,,,,,,"Python, Django, Linux, PostgreSQL, FastAPI"
+119973125,Fullstack Developer (Python/React),,,,,"Москва, Ленинградский проспект, 39с79","Python, JavaScript, API, React, PostgreSQL, Django Framework, REST"
+119847520,Middle/Senior Python Developer,,,,,"Москва, улица Раевского, 4с1А",
+119315653,"Системный разработчик (Python, Linux, C++)",,,,,"Москва, Лесная улица, 43",
+119582423,"Python-разработчик (FastAPI, Flask)",,,,,,"PostgreSQL, Микросервисная архитектура, Celery, MySQL, FastAPI, Flask, CI/CD, Ansible, REST API, Atlassian Jira, GitLab CI, SQL, Docker-compose, Работа с базами данных"
+119375165,Python-разработчик,100000,300000,RUR,False,,"Python, FastAPI, SQLAlchemy, Linux, MySQL, Docker, REST API, PostgreSQL, Git, HTTP"
+119636699,Backend разработчик/Python developer,,,,,,
+119321017,Python-разработчик,,,,,,"SQL, PostgreSQL, Работа с базами данных, СУБД, Python, ETL, DWH, Git, Docker"
+119931109,Middle + Python developer (Django/FastAPI) AdTech (в офисе),200000,250000,RUR,False,"Москва, Благовещенский переулок, 3с1","Python, Django Framework, FastAPI"
+119304680,Python-разработчик (Junior+ /Middle),80000,120000,RUR,False,,Python
+117984996,Fullstack QA Engineer (Python),,,,,,"Allure TestOps, Python, Selenium, Pytest"
+119439989,Ментор Python,300000,,RUR,True,,"Python, Agile, FastAPI, Django Framework, Django Rest Framework"
+119454474,Middle Python разработчик,,100000,RUR,False,,"Python, PostgreSQL, Kubernetes, Docker"
+119653035,Backend Python Developer (+ N8N),,,,,,Python
+119432580,"Стажёр-инженер по тестированию (python), Маршрутизация, Логистика",,,,,"Москва, Пресненская набережная, 10","IT, Разработка логистики"
+119645334,Python Разработчик,,240000,RUR,False,,"Python, Linux"
+117326410,Python Developer AI,,,,,,"Python, asyncio, Requests, beautifulsoup, pandas, Numpy, Django, Flask, FastAPI, RESTful API, PostgreSQL, MySQL, SQLAlchemy, Django ORM, MongoDB, Redis, Git, CI/CD, Jenkins, GitLab CI, GitHub Actions, Docker, Pytest, unittest, Linux, Kubernetes, RabbitMQ, Kafka, WebSockets"
+119516477,Разработчик на Python (ментор),50000,300000,RUR,True,,"Python, GitHub, Наставничество, Golang"
+119621804,Python-разработчик,,,,,,"Golang, Python, Git, Kafka, Redis, Prometheus, Graphana, CI/CD, Django Framework, Django Rest Framework"
+119023074,Разработчик Python,,,,,,"Python, Flask, FastAPI, RabbitMQ, Redis, PostgreSQL, psycopg2, Микросервисная архитектура"
+119669766,Middle/Senior Backend-разработчик Python,,,,,,"Linux, Docker, Python, REST, API, JSON API, OpenAI, Битрикс24, Celery, FastAPI, PostgreSQL, Gitlab, SQLite, Нейронные сети"
+119386211,Python разработчик Middle/Senior,200000,300000,RUR,False,,
+119687954,Middle+/Senior Python developer,,,,,"Москва, Большая кольцевая линия, метро Савёловская","Python, PostgreSQL, asyncio, WebSocket, FastAPI, SQLAlchemy, RabbitMQ, MongoDB, Математическое моделирование, Аналитическое мышление"
+118549567,Стажер - Data Scientist,,,,,,"Python, SQL"
+119497851,Python-разработчик,,,,,,"Python, gRPC, Микросервисная архитектура, Оптимизация кода"
+119756530,Senior Python developer,,200000,RUR,False,,"Python, PostgreSQL, Poetry, FastAPI, OpenCV, SQLAlchemy, Docker"
+119583553,Программист,50000,,RUR,False,Новосибирск,"PostgreSQL, Golang, Python, Docker, Gitlab"
+119023075,Разработчик Python,,,,,,"Python, Flask, FastAPI, RabbitMQ, Redis, PostgreSQL, psycopg2, Микросервисная архитектура"
+119031392,Python Developer,200000,300000,RUR,False,,"Python, Git, Django, Docker, Oracle DB, MySQL, NoSQL"
+119478986,Backend-разработчик Python (Junior+),80000,120000,RUR,False,"Бердск, улица Ленина, 89/8","Python, Рефакторинг кода"
+117467096,Backend Developer (Python),,,,,"Москва, Рочдельская улица, 15с15",
+119692809,Python разработчик,,,,,,
+119516508,Java (Python) Developer,2100,3000,USD,True,,"Java, Python, SQL, Azure, AWS, ETL, ELT, Atlassian Jira, ORACLE"
+119091100,Python Developer (middle/senior),,,,,"Москва, Северный административный округ, улица 8 Марта, 1с12","Python, Docker, Linux, API, SQL, TypeScript, VueJS, ООП, GitLab CI, FastAPI"
+118362676,Программист Python,190000,,RUR,False,,"Python, Linux, Kafka, RabbitMQ, FastAPI"
+119342819,Python-разработчик,100000,200000,RUR,True,,
+119610734,Python developer (Middle),,,,,,
+118436422,Python Fullstack разработчик,,,,,,
+119325762,Python-разработчик (Django),,,,,"Москва, Новодмитровская улица, 2к2","Python, Django Rest Framework"
+119357749,Python Developer,,,,,,
+119308031,"Backend-разработчик (Python, FastAPI, Postgres)",300000,,RUR,False,,
+113014072,Python developer (Middle+/Senior),,,,,,"Python, Git, REST, REST API, asyncio, Linux, Docker, API, SQL, FastAPI"
+120276931,Senior Fullstack-разработчик (Python + React),350000,400000,RUR,True,,"Python, Django Framework, React, Redis, Celery, Git, MySQL, REST API, Ansible"
+119787194,Разработчик ML,,,,,,"Python, SQL"
+120320466,Senior Python разработчик,,,,,,"Python, asyncio, Tornado, FastAPI, Linux, Docker, Kubernetes"
+119683696,Data Scientist (Ranking&Search),,,,,,"Python, Big Data, Machine Learning, Pricing"
+117550211,Разработчик С (Си),,,,,"Москва, Арбатско-Покровская линия, метро Бауманская","C, C/C++, Linux, Unix, Git, СХД, Хранение данных"
+117550211,Разработчик С (Си),,,,,"Москва, Арбатско-Покровская линия, метро Бауманская","C, C/C++, Linux, Unix, Git, СХД, Хранение данных"
+119819463,Data/BI Analyst (IGaming),2000,4000,USD,False,"Москва, Минская улица, 2Гк1",
+116757268,Data Engineer / Инженер данных,70000,,RUR,False,,"Python, Работа с большим объемом информации, SQL"
+120316211,Senior QA FullStack engineer Python (OMS),,,,,,"Python, Pytest, Apache Kafka, PostgreSQL"
+120187563,Data Engineer/analytics,,,,,,"Python, PostgreSQL, SQL, Apache Airflow"
+120041102,Python разработчик для embedded систем (Raspberry Pi/Linux),,,,,"Москва, Большая Новодмитровская улица, 14с3",
+119383740,ML-инженер,217000,,RUR,False,"Москва, Варшавское шоссе, 9","Computer Vision, Классическое машинное обучение, TensorFlow, PyCharm"
+120320414,Python разработчик на платформу контейнерной оркестрации,,,,,,"Python, Go, Kubernetes, Linux, сети"
+120337638,"Специалист-консультант по искусственному интеллекту / ML Engineer (TensorFlow, YOLO)",,150000,RUR,True,,
+119387681,Специалист (Data Scientist),,,,,,
+118991684,"QA Automation Engineer (Python, PyTest)",,,,,,
+119445127,Data Engineer,,,,,,
+118712236,Junior+ / Pre-middle Fullstack Developer / Разработчик,,120000,RUR,False,,"PHP, JavaScript, MySQL, AWS, Git, Golang, Английский язык"
+119332755,Data Scientist (Senior),,,,,"Москва, улица Василисы Кожиной, 1","Python, SQL, NLP, Computer Vision, pandas, TensorFlow, Scikit-learn, PyTorch"
+119310400,Преподаватель Unity / Python Backend в онлайн-школу,60000,90000,RUR,False,,"Грамотная речь, Преподаватель, Обучение и развитие, Дистанционное обучение, Работа с детьми, Веб-программирование, Unity, Blender 3D, Обучение, Scratch, Roblox"
+120317530,Middle Fullstack разработчик (React + Python),,,,,"Санкт-Петербург, Каменноостровский проспект, 26-28","Коммуникабельность, Креативность, Целеустремленность, Стратегическое мышление, Критическое мышление, Лидерские навыки"
+116617058,Data Engineer / Data analyst,,,,,"Москва, Центральный административный округ, Пресненский район, Московский международный деловой центр Москва-Сити","Python, SQL, Power BI, Tableau, DWH, PHP, СУБД, ELT / ETL, Clickhouse"
+119280669,Backend-разработчик,80000,,RUR,False,,"Python, Django Framework, MySQL, PostgreSQL, Git, Docker, Celery, Redis, Django Rest Framework, Nginx, Aiogram, Loguru"
+119606347,Разработчик С++,250000,,RUR,False,,"Python, C++, Git"
+119877978,"Автор на курс ""Python разработчик""",,,,,,"Python, Django Rest Framework, PostgreSQL, pandas, Git, Docker, Flask"
+120288713,ML разработчик,,,,,,
+119918969,Инженер-программист / Разработчик,140000,220000,RUR,False,"Москва, Гоголевский бульвар, 31с2","C#, C++, Python, Linux, Bash"
+119310399,Преподаватель Unity / Python Backend в онлайн-школу,60000,90000,RUR,False,,"Грамотная речь, Преподаватель, Обучение и развитие, Дистанционное обучение, Работа с детьми, Веб-программирование, Unity, Blender 3D, Обучение, Scratch, Roblox"
+120338190,DevOps Инженер (Full‑node & RPC)/ Блокчейн инфраструктура/ Веб3 разработка,2000,4000,USD,False,Краснодар,"Linux, DevOps, Docker, Python, Golang, PHP, Node.js, CI/CD, GitHub, Prometheus, VPN, Http Proxy, Information Security, Web3, Ethereum, Blockchain, RPC"
+119744950,Аналитик-разработчик,74700,,RUR,True,"Москва, Новорязанская улица, 18","SQL, Python, Apache Airflow, MS Excel, Matplotlib, Визуализация данных, Аналитический склад ума, Алгоритмы и структуры данных, Математическая статистика, Базы данных"
+119359011,Специалист С++ по компьютерному зрению и машинному обучению,,150000,RUR,True,"Москва, Калужско-Рижская линия","Английский язык, Python, Computer Vision, C++, Классическое машинное обучение, Git, MS Visual Studio, GCC, OpenCV, Scikit-learn, CMake"
+120076545,Стажёр аналитик Spark Hadoop BigData,60000,100000,RUR,True,"Москва, Кутузовский проспект, 36с23","SQL, ETL, Hadoop, DWH, Big Data, Python, Базы данных, Kafka, Java, Scala"
+115176412,DevOps инженер,350000,,RUR,True,"Санкт-Петербург, 5 линия, метро Чкаловская",
+120342208,"Senior Backend Engineer (Python, Go)",,,,,,
+120063617,Тестировщик / IT специалист,100000,160000,RUR,False,,"SQL, Python, JavaScript, Test case, HTML, CSS, Веб-программирование, Базы данных"
+120294402,"Python-разработчик (МТС Веб Сервисы, Кион)",,,,,,
+120220633,Дата Саентист (Data Scientist),,,,,"Москва, улица Добролюбова, 3с1","SQL, Numpy, Scikit-learn, NoSQL, Git, PyTorch, Polars, pandas"
+119881850,Automation QA,,3000,USD,True,,Python
+119359038,Пентестер\Pentester в Offensive команду,300000,550000,RUR,True,"Москва, улица Милашенкова, 9к1","Linux, Информационная безопасность, Управление проектами, Пресейл, Burp Suite, Python, MaxPatrol, Pentest, Тестирование на проникновение, OSINT, TCP/IP, Acunetix, Nessus, JavaScript, OWASP ZAP, IPTables, NGFW, WAF, IPS, Docker"
+111959689,Middle Django(DRF) backend developer,,,,,"Санкт-Петербург, Державинский переулок, 5","Python, Django, DRF, Redis, Celery, Django Rest Framework, PostgreSQL, Django Framework"
+119490866,Программист,250000,,RUR,False,"Москва, Иваньковское шоссе",
+119419930,Разработчик AI (Wildberries),,300000,RUR,True,"Москва, Дмитровское шоссе, 71Б",
+119509123,С-разработчик,,,,,,"Linux, Сетевые протоколы"
+120212438,Senior (старший разработчки) back-end developer (golang + high-load),6500,9000,USD,True,,"Golang, PostgreSQL, Clickhouse"
+120283699,Data Scientist Junior+,,,,,,
+120325659,Data Scientist Junior+,,,,,,
+119278874,Data Engineer,,,,,,
+117655540,Data Engineer (Middle),152500,,RUR,True,"Владивосток, проспект 100-летия Владивостока, 155к5","Python, SQL, Apache Airflow, Git, Базы данных, ETL"
+119941025,Data Scientist,,,,,,
+106351897,Middle Data Analyst,,,,,"Санкт-Петербург, площадь Карла Фаберже, 8","SQL, Python, Power BI, Tableau, FineBI"
+120333874,Data Engineer,,,,,,"Python, PostgreSQL, Big Data"
+119907622,Программист-разработчик,30000,150000,RUR,False,"Уфа, Революционная улица, 97/99","Python, Nextjs, TypeScript, PostgreSQL, FastAPI, React, Node.js, Django Rest Framework, GitHub"
+120277951,Data Scientist (Стажёр),,,,,"Москва, Ленинградское шоссе, 39Ас2",
+120286062,Инженер по разработке программного обеспечения / Forward Deployed Software Engineer,,,,,,"Python, FastAPI, Flask, JavaScript, TypeScript, Node.js, Английский язык"
+118521063,DevOps (Middle/middle+),,,,,"Москва, Береговой проезд, 5Ак1",
+119717908,Инженер-программист,50000,70000,RUR,True,"Пермь, Комсомольский проспект, 29","Linux, Python, Unix, C/C++"
+120260681,Преподаватель Unity / Python Backend / Construct в онлайн-школу,60000,90000,RUR,False,,"Грамотная речь, Преподаватель, Обучение и развитие, Дистанционное обучение, Работа с детьми, Веб-программирование, Unity, Blender 3D, Обучение, Scratch, Roblox"
+120125250,"Data Scientist (классический ML, Антифрод)",,,,,,"Numpy, Clickhouse, ETL, pandas, SQL, Python, Классическое машинное обучение, SciPy, XGBoost, LightGBM, CatBoost, Matplotlib, Jupyter Notebook, Интерпретация данных, Исследовательский анализ данных, Основы баз данных"
+119489518,AI/Prompt engineer,87000,130000,RUR,False,,
+120297721,Разработчик Си/BI/Frontend/Fullstack (стажер),,,,,,
+119971672,BI Engineer,,,,,,"Tableau, Airflow, Metabase, ETL, Python, SQL, Clickhouse, Greenplum, PostgreSQL, GitHub, Atlassian Jira, BI, Аналитическое мышление"
+119927833,Data Scientist/ML Engineer,,,,,,"Python, Алгоритмы и структуры данных, Big Data, Hadoop, Spark"
+117244190,Backend-разработчик,80000,,RUR,False,"Кемерово, улица Терешковой, 41/1","Django Framework, Docker, Python"
+119802809,ML-инженер,120000,,RUR,False,"Новосибирск, Советский район, микрорайон Академгородок, Инженерная улица, 7/1","Python, Linux, Git"
+120063903,Младший инженер по обеспечению безопасности приложений ( Application Security engineer),,,,,"Москва, Береговой проезд, 5Ак1","OWASP Top 10, ООП"
+119756205,QA Lead (MCPTT),,,,,"Санкт-Петербург, Большой Сампсониевский проспект, 60","Python, Pytest, Linux, VoIP"
+119477244,Специалист по обработке и анализу данных / Data Scientist,,,,,"Москва, Ленинградский проспект, 72к1","Python, SQL, Yandex Cloud, Machine Learning"
+119879219,Python наставник (Воронеж),350000,470000,RUR,False,"Воронеж, улица Короленко, 5","Python, Django Framework, FastAPI"
+120042553,DevSecOps-инженер (Middle),,,,,"Москва, Овчинниковская набережная, 18/1с1","CI/CD, Docker, SAST, DAST, OWASP, AppSec, Quality Gates, Jenkins, GitLab CI, Python, C++, Git"
+116238361,Junior DevOps specialist,40000,65000,RUR,False,"Екатеринбург, улица Тургенева, 18","Git, GitHub, Linux, Docker, Gitlab, CI/CD, Python, Ansible, Kubernetes"
+120276861,Data Engineer,,,,,"Москва, Садовническая улица, 82с2",Python
+118310517,Data Scientist (Classic ML/NLP),,,,,,"Python, SQL, pandas, Numpy, Matplotlib, sklearn, NLTK, pymorphy, spacy, natasha"
+119676262,AI-разработчик / No-code/Low-code / Специалист по автоматизации процессов,1500,1500,USD,False,город Фошань,
+119748454,Senior full stack QA,,,,,,
+120032372,Data Engineer,,,,,,"PostgreSQL, Python, Airflow, XML, ORACLE, Apache Spark, Java"
+117948185,Разработчик-алгоритмист (JavaScript/TypeScript),,,,,,
+117043714,Trainee Automation QA Specialist,,,,,,
+116897031,Data Engineer,,,,,"Санкт-Петербург, 6-я линия В.О., 63","Apache Airflow, Apache NiFi, Greenplum, PostgreSQL, Clickhouse, Python, SQL"
+119476449,Пентестер\Pentester\Инженер ИБ в RedTeam команду,200000,300000,RUR,False,"Москва, улица Милашенкова, 9к1","Linux, Информационная безопасность, Burp Suite, MaxPatrol, Pentest, Тестирование на проникновение, TCP/IP, Acunetix, Nessus, OWASP ZAP, IPTables, NGFW, WAF, IPS, Kali Linux, Fortigate, OWASP, Nuclei, Patator, Dirsearch, ffuf"
+120338312,DevOps-Инженер Джуниор (Full‑node & RPC) / Блокчейн инфраструктура / Веб3 разработка,60000,180000,RUR,False,Краснодар,"Linux, Docker, Git, CI/CD, Bash, Python, Golang, VPN, PHP, Node.js, Web3, Ethereum, Blockchain, RPC"
+120042005,Conversational AI Engineer,,,,,,"Python, Node.js, TypeScript"
+119943748,ML / Computer Vision инженер в Multimonitor,,,,,"Москва, улица Зорге, 27",
+119213261,"Инженер по автоматизации тестирования, Python, API, Ozon Bank",,,,,,"Git, Python, Docker, Linux, Pytest, Автоматизация тестирования"
+119509606,Senior Backend Developer,250000,,RUR,False,"Санкт-Петербург, Конституции площадь, 1","Контроль качества разработки, Менторство, Оптимизация процессов, Планирование спринтов, Разработка стратегии, Управление командой, Участие в код-ревью"
+118585701,DevOps infrastructure/DBA,,,,,,"Linux, Bash, Python, MySQL, PostgreSQL"
+119359952,ML Engineer (online recommendations),,,,,,"Python, NLP, Hadoop, Machine Learning, pandas, Numpy, Docker"
+120312864,Rust разработчик,,,,,"Москва, Шарикоподшипниковская улица, 1","RUST, Python, XDR"
+119958555,Data Scientist,,,,,"Москва, 3-я Хорошевская улица, 20","Python, TensorFlow, PyTorch, Keras"
+120268503,Аналитик данных,,,,,,"Python, PostgreSQL, Greenplum, Hadoop, Apache Airflow"
+119333443,Infrastructure Engineer/DevOps (to Cyprus),5000,6000,EUR,False,,
+119275316,Спикер на съемки онлайн курса по Python (Санкт-Петербург),10000,100000,RUR,False,"Санкт-Петербург, Спасский переулок, 14/35",
+117655572,Data Engineer (Junior),87500,,RUR,True,"Владивосток, проспект 100-летия Владивостока, 155к5","Python, SQL, Apache Airflow, Git, Базы данных, ETL"
+120249695,Machine Learning Engineer,,,,,"Москва, Садовническая улица, 82",
+119539007,Системный аналитик / Middle,,3500,USD,False,,"BPMN, MS SQL, REST API, Atlassian Jira, Atlassian Confluence, ООП, User Story, Use Case Analysis, UX, UI, Agile, Scrum, Постановка задач разработчикам, Разработка пользовательской документации, Системный анализ, Бизнес-анализ, Python, PHP, Ext JS"
+117015768,"Fullstack-разработчик (.Net core, Python, React)",,,,,"Екатеринбург, Машинная улица, 44к1","React, .NET Core, Docker, Kubernetes, Redis, RabbitMQ, WebAPI, Python"
+119485506,Программист-разработчик ПО,65000,100000,RUR,True,"Петрозаводск, улица Ригачина, 43","C++, Базы данных, Arduino, SCADA, HMI, MODBUS, Profibus, CAN, IOT, Математическое программирование, Разработка ПО, Автоматизация технологических процессов, Информационные технологии"
+119188262,Middle QA-инженер,,,,,"Иннополис, Университетская улица, 7",
+117376698,Middle+ Data Engineer (Платформенная команда),,,,,"Москва, Электрозаводская улица, 27с8","Python, NoSQL, Apache Airflow, Greenplum, Spark"
+120269755,Разработчик (GoLang),,,,,"Санкт-Петербург, Репищева улица, 20а","Git, SQL, PostgreSQL, Golang, MySQL"
+120187586,Backend / full-stack разработчик,,,,,,"Микросервисная архитектура, SQL, JSON API, API Key, GitLab CI, REST API, API, JSON, AGGrid, Node.js, Рефакторинг кода, React, Angular, Google Chrome, chrome api, chrome extension api, Figma"
+118940770,DevOps Engineer,,,,,"Москва, Хорошёвское шоссе, 16к1",
+120277265,Data аналитик,,,,,деревня Сальково,"SQL, Python, PySpark"
+119058762,Senior разработчик C++/Python,,,,,"Москва, Лялин переулок, 19с1","C++, Python, Qt"
+119390719,AI Developer/Engineer,,,,,"Санкт-Петербург, Малоохтинский проспект, 64",
+119272750,C++ Разработчик,180000,250000,RUR,False,,"C++, PostgreSQL, Linux, SQL, Git, Gnu C++"
+119772512,Инженер OpenCV,,,,,"Москва, 2-я Кабельная улица, 2с5",
+120244193,Аналитик данных в Управление аудита информационных технологий (Junior / Стажер),,,,,,"SQL, Python"
+119395041,Lead Senior ML/DevOps engineer,5000,7000,USD,False,"Москва, Московское центральное кольцо, станция Деловой центр","MongoDB, Docker, PostgreSQL, swarm, Prometheus, ELK, Clickhouse, sentry, MySQL, DevOps, Elasticsearch, Kubernetes, Git, CI/CD, GitLab CI, RabbitMQ, k8s, Ansible"
+120022190,Junior Product manager (web&mobile),,,,,"Москва, Лихов переулок, 3с2","Python, SQL"
+119240052,QA Automation Python (г. Москва),,,,,"Москва, проспект Вернадского, 41","Python, Pytest, Selenium, Requests, Docker, CI/CD, GitLab CI, SQL, XML, JSON, Allure, API"
+120070194,Преподаватель программирования,,130000,RUR,True,,"Python, Преподавание, ЕГЭ, ОГЭ, Математика, Программирование, C++, С#"
+119900089,ML/DL Researcher для дизайна белков,,,,,,
+119907937,Junior Performance Engineer/Стажёр (Москва),55000,60000,RUR,False,,"Java, SQL, ООП, Python"
+120070192,Преподаватель программирования,,130000,RUR,True,,"Python, Преподавание, ЕГЭ, ОГЭ, Математика, Программирование, C++, С#"
+120070193,Преподаватель программирования,,130000,RUR,True,,"Python, Преподавание, ЕГЭ, ОГЭ, Математика, Программирование, C++, С#"
+120166422,Инженер-программист,95000,130000,RUR,False,"Москва, Волочаевская улица, 40Гс4","Алгоритмы и структуры данных, Python, Основы баз данных, JavaScript"
+119701320,TeamLead computer vision/machine learning,,,,,,
+118585705,DevOps infrastructure/DBA/Database Administrator,,,,,,"Python, Linux, Bash, PostgreSQL, DevOps, Администрирование, MySQL"
+119982087,Data Engineer,,,,,"Санкт-Петербург, Липовая аллея","Clickhouse, Python, Java, ETL, Apache Airflow, DWH, OLAP, Apache Spark, Apache Kafka, Apache Beam"
+120317222,Руководитель Backend / Team Lead Backend (Python),200000,300000,RUR,False,,
+119875260,DevOps Engineer,2500,5000,USD,False,"Баку, проспект Нефтчилер, 153","DevOps, PostgreSQL, Apache Kafka, CI/CD, Docker, Kubernetes, ORACLE"
+120332354,Quantitative Researcher,3000,5000,USD,False,,
+119299988,Аналитик данных/Data Analyst,110000,170000,RUR,True,,"Python, SQL, Аналитическое мышление, Бизнес-анализ, Английский язык"
+120295386,Machine Learning Engineer,,,,,"Москва, Перуновский переулок, 3с2","Machine Learning, Python, PyTorch, TensorFlow, Numpy, pandas, TensorRT, ONNX Runtime, OpenCV"
+119338652,Data Engineer,,,,,,
+120294163,"Ведущий инженер по автоматизированному тестированию (Python), Система WMS",,,,,,"Python, Pytest, Apache Kafka, PostgreSQL, gRPC, IT, Разработка склада"
+117889546,Разработчик на C под Linux,,,,,,"Linux, Сетевые технологии, Обработка трафика, DPDK, VPP, OpenDataPlane, Snabb, C, Си, Cи"
+119425422,Data Analyst (Middle),127000,,RUR,True,"Владивосток, проспект 100-летия Владивостока, 155к3","Python, SQL, Математическая статистика, Power BI"
+120105089,Инженер-разработчик ПО (робототехника),,,,,"Москва, Турчанинов переулок, 6с2","Python, Linux, C++"
+119275716,Middle+ / Senior ML-инженер,220000,330000,RUR,True,,"Big Data, pandas, Математическая статистика, SQL, Git, ETL, Hadoop, Java, Python, Groovy, Atlassian Jira, Atlassian Confluence"
+118643601,Инженер-разработчик,200000,,RUR,False,,"OpenStack, Операционные системы, Python, Linux, Bash, Ansible"
+119496659,Full stack (Frontend+backend) разработчик,,,,,,"JavaScript, HTML, HTTPS, API, API Gateway, API Key, Кроссбраузерная верстка, Python, Django Rest Framework, GitHub, PostgreSQL"
+119753007,Программист,150000,195000,RUR,True,"Ломоносовский район, территория Производственная зона Горбунки, 7",
+120059250,Руководитель разработки Python (E-commerce),,,,,"Москва, улица Маршала Прошлякова, 30","Python, Django Framework, Django Rest Framework, ORM, PostgreSQL, Celery, Redis, FastAPI, Golang, RabbitMQ, REST API, SQL, Оптимизация кода, Управление командой, Архитектурные паттерны"
+120317194,Golang-разработчик,270000,310000,RUR,True,"Москва, Сущёвская улица, 27с2",
+119435184,Аналитик данных (AdOps),,,,,"Рязань, улица Павлова, 5","Python, MS SQL, Jupyter Notebook, Power BI, ETL, Tableau, DataLens, Clickhouse, MongoDB, PostgreSQL"
+114176236,Senior QA Automation Engineer (Python),,,,,"Санкт-Петербург, набережная реки Фонтанки, 68","SQL, Тестирование, Деловая переписка, Работа в команде, Модульное тестирование, Jira, Проведение тестирований, Нагрузочное тестирование, Банковское ПО, Работа в условиях многозадачности, Сопровождение ПО, Python, JSON, XML, Написание автотестов"
+120005432,Инженер по нейросетям (интеграция ChatGPT / OpenAI API),120000,200000,RUR,False,,
+119958507,ML Lead,,500000,RUR,True,,"SQL, MLflow, Greenplum, Python, Управление командой, Big Data"
+120061265,Mathematician-analyst/Аналитик-математик,,,,,,
+119594534,Tech Lead DevOps/SRE,4000,7000,USD,False,,"Linux, Bash, Docker, Python, Clickhouse, CI/CD, Администрирование серверов Linux, Проектирование высоконагруженных систем"
+119275717,Middle+ / Senior ML-инженер,220000,330000,RUR,True,,"Big Data, pandas, Математическая статистика, SQL, Git, ETL, Hadoop, Java, Python, Groovy, Atlassian Jira, Atlassian Confluence"
+120291039,Web-программист,150000,300000,RUR,True,,
+118991687,Data Engineer,,,,,,
+118357275,Machine Learning Engineer/MLOps,,,,,"Москва, Зубовский бульвар, 4с1",
+119562895,Support-инженер,100000,125000,RUR,True,,"Английский язык, SQL, Техническая поддержка, Python, Техническая документация, Точность и внимательность к деталям, Работа с базами данных"
+120157496,Computer Vision Engineer/Инженер,250000,,RUR,False,,
+119952442,DevOps (стажер),,,,,"Томск, улица Пушкина, 75",
+110861130,Junior Product Analyst,,,,,"Санкт-Петербург, Большой проспект Васильевского острова, 18","Python, SQL, PostgreSQL, Power BI, Анализ данных, Мобильная аналитика, Событийная аналитика"
+109671668,Build Engineer,,,,,,"C#, Python, Jenkins"
+117438916,Разработчик ETL,,150000,RUR,False,"Москва, улица Зорге, 1",
+118113030,Инженер по внедрению AI и разработке чат-ботов,,,,,"Москва, Кутузовский проспект, 36с23","Python, API, CI/CD"
+120275064,Senior ML инженер (AntiDDoS / Real-Time Traffic Analysis),,,,,,
+118785641,Senior Data Engineer,,,,,"Москва, Пресненская набережная, 6с2","Python, SQL, Airflow, Superset, Clickhouse, ETL, Docker, Базы данных"
+120266334,Data Scientist,,,,,"Екатеринбург, улица Куйбышева, 75","SQL, Python, Визуализация данных, Бизнес-моделирование, Математическая статистика, Алгоритмы и структуры данных"
+120121272,Data-analyst (office Belgrade),,,,,,
+120101128,Разработчик С и С++,,250000,RUR,False,"Москва, Калужско-Рижская линия","C/C++, Java, Python, Objective-C, Git, CMake, GCC, MS Visual Studio, Unit Testing"
+119973379,Руководитель команды разработки (Python),,,,,,
+119451674,Data Analyst / Аналитик данных,,280000,RUR,True,,"FineBI, Python, SQL, Tableau, Hadoop, Статистический анализ, Теория вероятностей"
+119594535,Tech Lead DevOps/SRE,4000,7000,USD,False,,"Linux, Bash, Docker, Python, Clickhouse, CI/CD, Администрирование серверов Linux, Проектирование высоконагруженных систем"
+119082733,DevOps-инженер,,200000,RUR,False,"Москва, 1-й Магистральный тупик, 5а","Администрирование серверов Linux, PostgreSQL, Zabbix, Prometheus, Grafana, Bash, CI/CD, Gitlab, Ansible, Kubernetes, Docker"
+119374070,Python-разработчик,,,,,,
+120101145,Инженер DevOps,,300000,RUR,False,"Москва, Калужско-Рижская линия","Linux, Jenkins, Git, C/C++, Python, DevOps"
+119433145,Data Engineer / Ведущий аналитик данных,,,,,"Москва, улица Правды, 8к13","SQL, Appmetrica, Яндекс.Метрика"
+119565820,DevOps инженер (Middle),200000,,RUR,False,"Новосибирск, Советский район, микрорайон Академгородок, улица Демакова, 23/5","Ansible, PHP, Python, Linux, Docker, Kubernetes, Swarm, KVM, Prometheus, Zabbix, Jenkins, Gitlab, Git, PostgreSQL, MariaDB, MySQL, Clickhouse"
+119690701,QA-Engineer на мобильную RTS,,,,,,"Python, C#, Java, ООП, CI/CD, GameDev"
+118073500,Data Scientist (middle),,,,,"Санкт-Петербург, Гороховая улица, 16/71",
+118469826,Junior Automation QA Specialist,,,,,,
+118309827,Data Scientist (GenAI),,,,,,"Python, SQL, PyTorch, TensorFlow, peft, lora, sft, GPT, roBerta, pandas, Numpy, Matplotlib, sklearn"
+112689841,Engineer MLOps,,,,,,
+120285486,Практикант в команду DevOps инженеров,,,,,"Санкт-Петербург, Московский проспект, 94","Linux, Python, DevOps"
+120243561,Back-end-разработчик,140000,,RUR,True,"Москва, улица Петровка, 24",
+119656929,"Middle разработчик ML (LLM, VLM, RAG)",,,,,,"LLM, RAG, REST API, Linux, Docker, Python, PyTorch"
+119688453,"Product Analyst (Power BI, Mobile App, SQL)",2000,,USD,False,,"Power BI, SQL, Google Analytics, Android"
+119648710,Тестировщик (QA инженер),70000,120000,RUR,True,,Python
+117151435,"Data Scientist - Специалист по анализу и моделированию данных (офис, Ташкент)",,,,,"Ташкент, улица Нукус, 29А",Python
+120017224,"Data Scientist (NLP, LLM)",,,,,"Севастополь, улица Руднева, 41","Английский язык, Python, Deep Learning, PyTorch"
+119249611,Game Data Analyst,,,,,,"SQL, Fine BI, Исследовательский анализ данных, Визуализация данных, Tableau, Разработка и внедрение KPI"
+120322510,BI-аналитик,,,,,,"Python, Алгоритмы и структуры данных, Математическая статистика, PostgreSQL, Plotly, pandas"
+119635046,Системный администратор / DevOps инженер,150000,200000,RUR,False,,"Linux, Docker, Git, Jupyterlab, N8N, Clickhouse, Kubernetes, AWS"
+120203171,Программист / Программист Linux,,,,,"Санкт-Петербург, Бобруйская улица, 7","C++, Python, JavaScript, Linux, SQL, DevOps"
+119784532,Администратор Linux (в информационную безопасность),150000,230000,RUR,False,,
+120160674,Odoo разработчик,,,,,,
+116458181,Senior QA Automation Engineer (Python),,,,,,Python
+118608730,Аналитик-исследователь,,,,,,"Грамотная письменная речь, Аналитические исследования, Сбор и анализ информации"
+120232908,Продуктовый аналитик / Аналитик данных в IT-компанию,850,1350,USD,False,,"MS Excel, Google Sheets, Google Analytics, Английский язык, SQL, Python"
+118133602,Build Engineer,,,,,"Санкт-Петербург, площадь Карла Фаберже, 8",
+119918962,DS/ML engineer,,,,,,"Python, Алгоритмы и структуры данных, SQL, Big Data"
+118849788,C++ Developer (ECAD),,,,,,
+118915973,Manual QA engineer/Инженер по ручному тестированию (железо),110000,110000,RUR,False,"Санкт-Петербург, набережная Обводного Канала, 199","Ручное тестирование, QA, Agile, SQL, Linux"
+119676704,BI-аналитик,,200000,RUR,True,,"MS SQL, DWH, Базы данных, ETL, MS PowerPoint, SQL, Python, Power BI"
+119337530,Data Analyst,,,,,"Санкт-Петербург, Московский проспект, 158Б","SQL, MS SQL, ORACLE, R, Python, OLAP, Анализ данных, Анализ временных рядов, Статистический анализ, Кластерный анализ"
+120017307,Data Scientist (Computer Vision),,,,,"Севастополь, улица Руднева, 41","Английский язык, Python, Computer Vision, PyTorch, OpenCV"
+120299941,Fullstack-разработчик в FirstVDS,150000,300000,RUR,True,"Иркутск, микрорайон Радужный","Python, SQL, Linux, JavaScript, CSS, HTML, Git, Docker"
+120321056,DWH разработчик,,,,,,"Python, SQL, ETL, Atlassian Confluence, Gitlab, Git, Linux, CI/CD"
+116800248,Product Analyst,,,,,,"SQL, Python, Продуктовые метрики, Математическая статистика, A/B тесты"
+119637198,Quantitative Researcher,,,,,"Москва, проспект Вернадского, 29","Python, Математическая статистика, Теория вероятностей, Scikit-learn, Deep Learning, Анализ данных, Математическое моделирование, Анализ временных рядов, машинное обучение"
+119927029,Программист С++,,,,,,"STL, Linux, C++"
+120218249,DevOps инженер (senior),,,,,"Москва, Докучаев переулок, 3к1","Linux, Docker, Django Framework, Kubernetes, OpenShift, Ansible, Zabbix, Grafana, CI/CD, Git, Unix, TCP/IP"
+119738318,Backend-разработчик,45000,,RUR,False,"Нижний Тагил, улица Ломоносова, 2А",
+119381899,FPGA-разработчик (middle),,,,,"Москва, Краснобогатырская улица, 44с1","Verilog HDL, FPGA, SYSTEM VERILOG, ПЛИС, Vivado, Quartus, Modelsim"
+120282826,Antifraud analyst,,,,,"Москва, Центральный административный округ, Пресненский район, Московский международный деловой центр Москва-Сити","Business communication, SQL, Business English, Statistics, Python, Communication skills, Analytical skills"
+120297203,ML-инженер (стажер),32500,65000,RUR,True,,
+117180572,C developer (ME),,,,,"Новосибирск, Окружная улица, 29в","Embedded, C"
+117445251,Преподаватель образовательных курсов для детей (Python),,80000,RUR,True,,"Преподаватель, Обучение, Грамотная речь, Python"
+118861869,DevOps Linux / Kubernetes,250000,300000,RUR,False,,"Kubernetes, Docker, Linux, Ansible, Администрирование серверов Linux"
+119295033,DevOps Engineer,,,,,"Санкт-Петербург, Большой проспект Петроградской стороны, 53к3","DevOps, Ansible, GitLab CI, Jenkins, Docker, Python, Bash, Prometheus, Docker-compose, CI/CD, Nginx, Grafana, Linux"
+119246134,QA engineer,150000,230000,RUR,True,"Москва, улица Ефремова, 10с1к4/5","Linux, Docker, Git, Python, Pytest, QA"
+117893985,Программист Linux,,,,,"Москва, Кантемировская улица, 58",
+120267776,Инженер-Программист ПО,,,,,"Симферополь, улица Генерала Васильева, 32А","Linux, Python, HTML, CSS, jQuery"
+119754694,Аналитик-разработчик в Yandex Robotics,,,,,"Москва, Новинский бульвар, 8",
+119459397,Java разработчик с нуля (стажер),70000,80000,RUR,True,,"Java, Hibernate ORM, Java EE, ORACLE, MySQL, PostgreSQL, Git, Spring Framework, Unit Testing, Java Servlets, ООП, SVN, JSP, Разработка ПО, Linux, API, SQL, C#, C++, Python, Kotlin, Apache Kafka, Kubernetes, Scala, Ruby, Внимательность, Ответственность, Базы данных, MS Excel, Agile"
+120322425,Data Engineer (senior/middle),,,,,,"Spark, Big Data, Hadoop, s3, Greenplum, Clickhouse"
+119431732,Junior C++ разработчик алгоритмов геометрического моделирования,60000,100000,RUR,False,"Новосибирск, улица Николаева, 11/5",C++
+120198951,QA automation engineer (Senior),,,,,,"Python, Pytest, Selenium, REST API, Gitlab"
+119779124,ML Lead,,,,,,
+118082867,Специалист по автоматизации тестирования / QA Engineer,,,,,"Рязань, улица Каширина, 1","Python, Linux, Git, HTTP, Postman"
+120295012,Инженер данных (middle-),,,,,,
+119772902,PHP-программист,80000,130000,RUR,False,"Москва, Алтуфьевское шоссе, 48к2","HTML, CSS, PHP, JavaScript, Python, SQL"
+119912564,Аналитик данных,,,,,"Москва, улица Ленинская Слобода, 26с5","PostgreSQL, Python, Алгоритмы и структуры данных, Power BI, Clickhouse"
+120042991,Инженер по разработке ядра Linux (Storage Kernel Engineer),,,,,"Москва, Арбатско-Покровская линия, метро Бауманская","Linux, C/C++"
+118896685,Junior Quantitative Analyst,,,,,"Москва, Крылатская улица, 17к1",
+120023738,DevOps-инженер,,,,,"Санкт-Петербург, Белоостровская улица, 6","Linux, Bash, Python, Docker, Git, Nginx, Apache, Proxy, Redis, PostgreSQL"
+118585706,Big Data infrastructure engineer/DWH (Москва),,,,,,"MySQL, MongoDB, Linux, Clickhouse, Kafka"
+119277864,Специалист по автоматизации тестирования / QA Engineer,160000,,RUR,False,,"Автоматизированное тестирование, Регрессионное тестирование, Нагрузочное тестирование, Функциональное тестирование"
+119697593,Разработчик C++,,,,,"Москва, Летниковская улица, 4с5","C++, Python, САПР, Qt 5+, Qt, Git"
+119858330,Программист,150000,225000,RUR,True,,"PHP, Python, MySQL"
+118558856,Программист С++,160000,200000,RUR,False,"Санкт-Петербург, 22-я линия Васильевского острова, 3к5","C++, Qt, Python, Linux, SVN"
+119593593,Педагог по программированию,30000,60000,RUR,False,"Ижевск, Северный переулок, 9А","C++, Unity, C#, Blender 3D, Python"
+120263426,Программист С++,,,,,,"Python, Bash, Git, deb, gdb, make, Docker, C++14, Linux CLI"
+119858329,Программист,150000,225000,RUR,True,,"PHP, Python, MySQL"
+113324550,Security Champion in SW Development \ Специалист по информационной безопасности (TATLIN.OBJECT),,,,,,"Golang, C/C++, Python, Linux, go-fuzz, python-afl, libfuzzer, afl++, Bash, fuzzing"
+120207292,Data Engineer,,,,,"Москва, Замоскворецкая линия, метро Павелецкая",
+119386272,Data Engineer,180000,,RUR,True,"Москва, Варшавское шоссе, 42",
+119890215,С++/QT Developer at US-based company,4800,5800,USD,True,,
+120247206,DevOps инженер,200000,,RUR,True,"Санкт-Петербург, улица Красного Курсанта, 25В",
+119447933,Back-end разработчик,50000,90000,RUR,True,,"MySQL, RabbitMQ, Laravel, PHP, Python, MVC, Чтение чужого кода"
+119294252,"Преподаватель компьютерных курсов (С++ C#, Python)",,,,,"Ростов-на-Дону, Социалистическая улица, 141",
+118039753,Junior Frontend-разработчик (JavaScript/TypeScript),,,,,"Москва, Одесская улица, 2кС","JavaScript, Алгоритмы и структуры данных, графы, граф, TypeScript, D3.js, Three.js, NetworkX, Graph-tool, pyGraphvis"
+118019746,Data Analyst / BI Developer,,,,,"Москва, Пресненская набережная, 6 стр.2, Башня Империя","SQL, Python, Apache Airflow, Clickhouse"
+120266086,Data Scientist/Специалист по обработке данных (NLP),,,,,,"Data Science, Machine Learning, NLP"
+119424752,Data Analyst (Junior),81000,,RUR,True,"Владивосток, проспект 100-летия Владивостока, 155к3","Python, SQL, Математическая статистика"
+120041308,QA engineer (Auto + Manual),,160000,RUR,False,,"YouTrack, TMS Systems, SQL, Pytest, Python, Selenium, PostgreSQL, Postman, Figma, Swagger, Linux, Git, Gitlab, CI/CD, JSON, HTTPX, JavaScript, TypeScript, NoSQL"
+118762356,Преподаватель образовательных курсов для детей (Python),,70000,RUR,True,,"Преподаватель, Обучение, Грамотная речь, Python"
+120275372,Программист С++,,,,,,"Python, Bash, Git, deb, gdb, make, Docker, C++14, Linux CLI"
+119960376,Продуктовый аналитик,192000,,RUR,True,"Санкт-Петербург, Аптекарский проспект, 2",
+117753413,Главный специалист/ Data Engineer разработки витрин данных (розничные кредитные риски),,,,,"Москва, Пресненская набережная, 10с2","MS SQL, PostgreSQL, Python, Розничный кредитный портфель, AR, NPL, Винтажный анализ, roll-rates, ПВР, разработка нормативных документов, Оценка кредитного риска, Создание витрин данных, Мониторинг кредитных рисков, Разработка бизнес-требований на витрины данных, Постановка задач ИТ подразделениям"
+120217736,DevOps Engineer,175000,300000,RUR,False,"Санкт-Петербург, набережная Обводного канала, 199-201","MySQL, Docker, YandexCloud, Zabbix, Python, Nginx, Git, Ansible, Kubernetes, GitLab CI/CD, Helm, Terraform, DevOps, GitLab CI, Prometheus, Gitlab"
+118850344,C++ Developer (UI),,,,,,
+117775401,Junior+ DevOps-инженер,,,,,"Нижний Новгород, Рождественская улица, 6","Python, CI/CD, Docker, Git, Nginx, Linux, Bash, DevOps"
+120291061,Аналитик киберугроз,,,,,,"Python, REST API, Docker, Информационная безопасность"
+119900269,Senior Golang разработчик нагруженной платформы сбора и анализа данных,,,,,"Москва, Огородный проезд, 16/1с4","Golang, Базы данных, PostgreSQL, Умение проектировать и разрабатывать API (как REST, так и gRPC), Умение работать с реляционными и No SQL базами данных, Проектирование и разработка отказоустойчивых систем, Разработка приложений для Linux"
+120333508,Junior ROS2 Developer (Водные дроны),40000,,RUR,False,"Тольятти, Автозаводский район, Спортивная улица, 33","Python, GitHub"
+119695801,Младший системный аналитик,,,,,"Москва, Нижний Сусальный переулок",
+119321426,AI-инженер,,,,,,
+120292658,Веб-разработчик-специалист по IT-системам/Fullstack Developer,1600,,USD,True,"Нью-Йорк, улица 43-я Ист",
+119990557,Аналитик данных,120000,120000,RUR,False,"Санкт-Петербург, Кондратьевский проспект, 15к5","Power Query, DAX, SQL, Power BI, Анализ данных, REST API"
+119640827,Аналитик отдела внедрения и поддержки,,150000,RUR,False,"Санкт-Петербург, 24-я линия Васильевского острова, 15/2",
+119421999,Программист C/C++,,,,,,"VSCode, C++, STL, C"
+119315950,Разработчик C++,,,,,,"C++, Английский язык"
+119949785,ML Lead разработчик/инженер,,,,,,"Python, Apache Airflow, PostgreSQL, GitLab CI, Hadoop, PySpark, Apache Hive"
+119870072,"DevOps-инженер (Kubernetes, Yandex Cloud)",250000,,RUR,False,"Москва, Большая Садовая улица, 5к1","Linux, Docker, Kubernetes, Yandex Cloud, CI/CD, C#"
+120317155,Программист,40000,55000,RUR,False,"Вологда, Козлёнская улица, 33",
+119318911,DevOps-инженер Middle( Atomic Mail),,,,,,"CI/CD, Kubernetes, Python, Linux, Prometheus, Nginx, PostgreSQL, Docker, Ansible, Terraform"
+119277888,Senior Data Scientist (NLP ML Autotasking),,,,,"Москва, Лесная улица, 7",
+119166217,QA Engineer,,,,,"Москва, Калужско-Рижская линия, метро Калужская","Системное тестирование, Функциональное тестирование, Linux, Автоматизированное тестирование, Bash, Python, Нагрузочное тестирование, Анализ требований, REST API, СХД"
+120327180,Аналитик данных (дата инженер) Отдела портфельного анализа Департамента залогов,,,,,"Москва, Краснопресненская набережная, 10","SQL, Python"
+119676828,QA Engineer Manual\Auto,,,,,"Санкт-Петербург, Аптекарский проспект, 2",
+119826409,Android-разработчик,,300000,RUR,False,"Новосибирск, Советский район, микрорайон Академгородок, проспект Академика Лаврентьева, 2/2",
+119880788,Data Engineer/Data аналитик,,250000,RUR,False,,"SQL, Python, Hadoop, Apache Hive, Spark, Java"
+119829856,Продуктовый аналитик,,,,,,"Python, Power BI, AppsFlyer, DAX, SQL, API, DWH, Сквозная аналитика"
+113324549,Security Champion in SW Development \ Специалист по информационной безопасности (TATLIN.OBJECT),,,,,,"Golang, C/C++, Python, Linux, go-fuzz, python-afl, libfuzzer, afl++, Bash, fuzzing"
+118822785,SRE-инженер,,,,,"Москва, Романов переулок, 4","Python, Git, Docker, MongoDB, Kubernetes, Istio, CentOS, Ubuntu, KVM, Puppet, Ansible, Shell Scripting, Cisco, VLAN, Nginx, HAProxy, Clickhouse, RabbitMQ, Traefik, LXD, LDAP, Helm"
+112792980,Data Engineer (SRE),,,,,,
+119332895,Инженер-разработчик С/С++,,,,,"Пенза, улица Кирова, 56","C/C++, TCP/IP, Сетевые технологии, STL"
+119376133,"JUNIOR full starck разработчик, Москва",60000,70000,RUR,False,"Москва, Походный проезд, 3с1","SQL, Python, HTML, CSS, JS, Git, Figma, Bootstrap, Quasar, Flask, FastAPI, Redis"
+119891684,Lead Backend Developer (Node.js) US-based company,6500,10000,USD,True,,"Node.js, PostgreSQL, GraphQL, Docker, Apache Kafka, Kubernetes, RabbitMQ, Team management, tech lead"
+119590358,QA Fullstack Engineer (Back-end),,310000,RUR,False,,"REST API, HTTP, Тестирование, Kafka, Написание автотестов, Kotlin, NoSQL, Postman"
+119401310,Golang Developer/Разработчик (Go),,,,,"Москва, Николоямская улица, 13с2","Golang, MongoDB, RabbitMQ, Git"
+119729508,DevRel Manager - AI/ML Technologies,,,,,,
+118830103,DevSecOps Инженер,,,,,"Москва, проспект Лихачёва, 15",
+114121463,Data Infrastructure Engineer,,,,,,"Bash, PostgreSQL, MySQL, MS SQL, Python, Git, Greenplum, BigData, GitHub, Vertica, Gitlab"
+120105589,Senior / middle QA Automation Engineer,,,,,"Москва, Калужско-Рижская линия, метро Калужская","Linux, CI/CD, Jenkins, GitLab CI, REST API, Тестирование API, Python, Pytest, Allure, Selenium, Playwright, Bash, Docker, Тестовая документация, Тест-кейсы, Автоматизированное тестирование, Git, СХД"
+119596348,DevOps-инженер,,,,,,
+114903659,C++ Developer,,,,,,
+119619448,ML Lead,,,,,"Москва, Романов переулок, 4",
+118657499,"Инженер DevOps (Middle,Senior)",,,,,,"Linux, CI/CD, GitLab CI, Docker, Kubernetes, swarm, Java, Nginx, Ansible, Git"
+117590340,QA Engineer (Auto),,,,,"Москва, Хорошёвское шоссе, 16к1",
+120316276,ML-инженер,,,,,,
+120247722,Database Administrator / Администратор баз данных,,,,,,
+119648609,Data Scientist,,,,,"Москва, Цветной бульвар",
+119123159,DevOps Engineer,,,,,"Санкт-Петербург, улица Савушкина, 83к3","Kubernetes, Terraform, CI/CD, Jenkins, IaC, Helm, PHP, Iron Python, Golang, Yandex Cloud, AWS, Azure"
+120157278,Middle DevOps Engineer/DevOps-инженер,250000,,RUR,True,,"Linux, Docker, CI/CD, Gitlab, DevOps, Apache Kafka, Redis"
+118153221,Аналитик данных,,,,,,"SQL, Маркетинговые метрики, Python"
+120337593,Big Data Platform Engineer,,,,,"Санкт-Петербург, набережная реки Фонтанки, 68","Python, Big Data, Apache Airflow, Scala, Hadoop, Jupyter Notebook, CI/CD, NoSQL"
+120262324,Ведущий аналитик (Python; Power BI),135000,135000,RUR,True,"Москва, 1-й Щипковский переулок, 19/1с1",
+117019308,Software engineer,,,,,,"Python, Алгоритмы и структуры данных, GitHub, Git"
+120292600,Разработчик,90000,,RUR,False,"Нижний Новгород, Ошарская улица, 14","Автоматизация процессов, Оптимизация бизнес-процессов, Оптимизация кода, Java, MS SQL, Python, JavaScript, Разработка бизнес-требований"
+119166916,Разработчик SQL,,,,,"Новосибирск, Депутатская улица, 46","SQL, Python, PostgreSQL, Oracle Pl/SQL, Apache Airflow"
+113324551,Security Champion in SW Development \ Специалист по информационной безопасности (TATLIN.OBJECT),,,,,,"Golang, C/C++, Python, Linux, go-fuzz, python-afl, libfuzzer, afl++, Bash, fuzzing"
+119499663,Junior/Pre-middle QA Engineer,40000,50000,RUR,False,Оренбург,"Atlassian Jira, Функциональное тестирование, Интеграционное тестирование, Postman, Agile, Онбординг, Регрессионное тестирование, Политика тестирования, Git, Английский язык"
+120210604,Преподаватель программирования в онлайн-школу,50000,80000,RUR,False,,"Java, HTML, Python, JavaScript, Scratch, Minecraft, Stencyl, Roblox Studio, CSS, Unity, Преподаватель, Групповое обучение, Дистанционное обучение, Индивидуальное обучение, Коммуникабельность"
+120242133,Fullstack Developer (Junior+/Middle),100000,,RUR,False,"Краснодар, Красная улица, 155/2","JavaScript, Кроссбраузерная верстка, CSS3, React Native, Рефакторинг кода, Адаптивная верстка, Оптимизация кода, Wordpress, React, Node.js, HTML, HTML5, Python"
+120332345,Реверс-инженер,,,,,"Москва, Большой Дровяной переулок, 8с1","IDA Pro, Ghidra, Radare2, Stack-buffer-overflow, Python, C++, Информационная безопасность"
+120242122,Старший разработчик Python / C++,,,,,,
